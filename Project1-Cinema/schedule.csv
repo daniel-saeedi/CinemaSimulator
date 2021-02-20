@@ -1,0 +1,1501 @@
+CinemaName,MovieName,Day,StartingTime,FinishingTime,Price,Hall
+Eram,Aliens,Wednesday,11:30,14:00,15,3
+Mellat,The Intouchables,Monday,18:30,20:30,15,9
+Mellat,Pulp Fiction,Monday,17:30,20:30,20,7
+Javan,The Green Mile,Monday,13:30,16:30,20,1
+Gholhak,Vertigo,Friday,11:00,13:00,20,9
+Iran,Inception,Sunday,13:30,15:30,20,3
+Hafez,Gladiator,Sunday,09:30,12:30,25,2
+Payam,The Shining,Thursday,12:30,14:30,15,3
+Iran,Fight Club,Tuesday,08:30,11:00,20,6
+Iran,The Lion King,Monday,13:00,15:30,25,3
+Arg,Apocalypse Now,Friday,12:30,14:30,25,1
+Eram,Inside Out,Thursday,09:00,11:30,15,3
+Mellat,Fight Club,Sunday,13:30,16:00,25,3
+Paytakht,American Beauty,Monday,17:30,20:30,20,5
+Felestin,American Beauty,Friday,15:00,18:00,25,7
+Ghods,American History X,Tuesday,18:30,20:30,20,3
+Farhang,Princess Mononoke,Wednesday,18:30,21:30,20,9
+Hafez,Vertigo,Friday,18:30,20:30,25,3
+Iran,Apocalypse Now,Friday,08:30,10:30,20,8
+Hafez,Se7en,Wednesday,10:00,12:30,20,5
+Gholhak,Spirited Away,Sunday,14:30,17:00,15,3
+Iran,Psycho,Tuesday,11:00,14:00,20,3
+Arg,Psycho,Friday,16:30,19:30,20,4
+Alborz,Back to the Future,Sunday,11:30,13:30,15,5
+Alborz,Das Boot,Tuesday,15:00,17:30,15,5
+Mellat,The Shining,Sunday,09:30,11:30,15,8
+Koorosh,Gladiator,Monday,17:30,20:30,25,8
+Gholhak,M,Friday,09:00,11:30,15,3
+Mellat,The Great Dictator,Tuesday,14:00,16:30,15,9
+Payam,Casablanca,Thursday,18:00,20:30,15,9
+Ghods,Oldeuboi,Friday,17:00,20:00,15,8
+Charsoo,Casablanca,Saturday,19:30,22:00,20,1
+Felestin,Snatch.,Friday,14:00,17:00,15,8
+Alborz,The Kid,Wednesday,11:00,13:30,15,7
+Koorosh,Memento,Monday,18:00,20:30,20,4
+Iran,The Green Mile,Wednesday,15:00,18:00,15,7
+Esteghlal,The Sting,Friday,12:30,15:30,20,1
+Alborz,The Matrix,Thursday,08:00,10:30,25,7
+Charsoo,The Godfather,Friday,08:00,10:30,20,5
+Payam,The Green Mile,Wednesday,15:00,18:00,20,1
+Felestin,Star Wars,Sunday,15:30,18:30,20,8
+Alborz,Goodfellas,Monday,12:00,14:00,15,3
+Farhang,Seven Samurai,Friday,19:00,21:30,20,6
+Arg,The Matrix,Saturday,09:30,12:00,15,2
+Arg,City of God,Friday,20:00,23:00,20,6
+Koorosh,The Prestige,Saturday,09:30,12:30,15,7
+Arash,The Sting,Monday,19:00,22:00,20,4
+Gholhak,Goodfellas,Wednesday,12:00,14:00,15,1
+Gholhak,Memento,Thursday,15:00,17:30,20,2
+Felestin,Star Wars,Thursday,13:30,16:30,25,7
+Mellat,The Green Mile,Friday,09:30,12:30,20,2
+Koorosh,Se7en,Thursday,15:30,18:00,15,1
+Felestin,The Kid,Monday,11:00,13:30,15,5
+Gholhak,Modern Times,Monday,09:00,12:00,25,2
+Mellat,Double Indemnity,Saturday,09:00,11:30,15,8
+Esteghlal,Taxi Driver,Saturday,19:00,21:30,25,9
+Farhang,Rashômon,Saturday,08:30,11:00,25,8
+Alborz,Alien,Wednesday,08:00,10:00,20,4
+Charsoo,Taxi Driver,Saturday,09:30,12:00,20,8
+Payam,Taxi Driver,Sunday,08:30,11:00,15,9
+Charsoo,Reservoir Dogs,Friday,13:00,16:00,25,7
+Azadi,The Kid,Saturday,11:30,14:00,15,1
+Ghods,Das Boot,Tuesday,10:30,13:00,15,9
+Iran,The Great Dictator,Saturday,19:00,21:30,20,3
+Alborz,Goodfellas,Monday,17:00,19:00,20,5
+Javan,Interstellar,Wednesday,14:00,16:00,15,2
+Eram,Lawrence of Arabia,Wednesday,16:00,18:00,15,3
+Esteghlal,The Pianist,Sunday,14:00,16:30,15,8
+Mellat,Psycho,Wednesday,15:30,18:30,20,1
+Felestin,Snatch.,Sunday,18:00,21:00,15,8
+Paytakht,The Green Mile,Saturday,12:00,15:00,15,7
+Paytakht,Toy Story,Sunday,13:30,16:30,25,1
+Farhang,Sunset Blvd.,Saturday,13:00,15:00,25,1
+Koorosh,The Pianist,Wednesday,13:30,16:00,15,7
+Eram,Toy Story,Wednesday,15:00,18:00,15,4
+Charsoo,North by Northwest,Monday,18:30,21:30,20,8
+Hafez,Toy Story,Monday,15:30,18:30,20,2
+Koorosh,The Dark Knight,Tuesday,17:00,19:30,25,8
+Charsoo,Fight Club,Sunday,15:30,18:00,25,8
+Hafez,Seven Samurai,Thursday,14:30,17:00,15,9
+Felestin,Braveheart,Wednesday,08:00,10:00,20,4
+Ghods,The Kid,Saturday,08:00,10:30,15,1
+Gholhak,M,Sunday,17:30,20:00,20,6
+Gholhak,Interstellar,Saturday,17:30,19:30,15,8
+Azadi,The Dark Knight,Tuesday,17:00,19:30,20,1
+Charsoo,The Intouchables,Tuesday,09:00,11:00,25,3
+Hafez,Braveheart,Friday,13:00,15:00,20,4
+Felestin,Fight Club,Saturday,15:00,17:30,25,3
+Azadi,Bicycle Thieves,Sunday,19:30,22:30,15,9
+Javan,American Beauty,Wednesday,09:30,12:30,15,9
+Alborz,Casablanca,Friday,19:00,21:30,25,9
+Charsoo,A Clockwork Orange,Thursday,14:30,17:30,20,3
+Iran,Apocalypse Now,Sunday,19:00,21:00,15,3
+Charsoo,Psycho,Monday,15:00,18:00,25,7
+Iran,Aliens,Wednesday,18:30,21:00,20,3
+Arash,Inside Out,Tuesday,08:30,11:00,15,9
+Esteghlal,Lawrence of Arabia,Thursday,12:00,14:00,15,1
+Ghods,Fight Club,Thursday,20:00,22:30,15,1
+Ghods,Back to the Future,Saturday,12:00,14:00,15,6
+Mellat,Back to the Future,Thursday,09:00,11:00,15,6
+Paytakht,Psycho,Saturday,09:30,12:30,15,2
+Felestin,The Departed,Thursday,18:30,21:00,15,7
+Eram,Reservoir Dogs,Friday,18:30,21:30,15,3
+Arash,Vertigo,Monday,15:00,17:00,25,8
+Koorosh,Pulp Fiction,Saturday,11:00,14:00,15,1
+Farhang,Whiplash,Wednesday,15:30,18:30,15,5
+Payam,The Intouchables,Friday,15:30,17:30,15,4
+Felestin,The Pianist,Wednesday,19:00,21:30,15,2
+Ghods,Interstellar,Wednesday,15:30,17:30,25,7
+Farhang,Citizen Kane,Friday,17:00,20:00,20,4
+Javan,Double Indemnity,Tuesday,16:30,19:00,20,4
+Farhang,The Lion King,Wednesday,18:30,21:00,20,9
+Mellat,City of God,Sunday,13:30,16:30,20,9
+Paytakht,Gladiator,Tuesday,10:30,13:30,25,3
+Koorosh,WALL·E,Thursday,16:30,19:30,25,1
+Charsoo,Forrest Gump,Sunday,11:00,13:30,20,7
+Ghods,Back to the Future,Thursday,18:30,20:30,20,8
+Felestin,Whiplash,Sunday,08:00,11:00,15,5
+Arash,American History X,Wednesday,17:30,19:30,25,7
+Gholhak,Se7en,Tuesday,18:00,20:30,20,8
+Charsoo,The Godfather,Tuesday,14:30,17:00,20,5
+Arash,City of God,Tuesday,09:00,12:00,25,1
+Felestin,The Shining,Wednesday,08:30,10:30,20,7
+Ghods,Gladiator,Wednesday,20:00,23:00,25,2
+Iran,The Intouchables,Wednesday,10:00,12:00,20,7
+Azadi,L.A. Confidential,Monday,11:30,13:30,15,1
+Felestin,Memento,Tuesday,19:00,21:30,20,6
+Azadi,The Shining,Tuesday,11:30,13:30,20,3
+Iran,Casablanca,Tuesday,08:00,10:30,20,9
+Esteghlal,Inside Out,Thursday,17:00,19:30,15,3
+Paytakht,Inside Out,Sunday,18:00,20:30,25,8
+Ghods,Alien,Sunday,18:00,20:00,25,3
+Farhang,Se7en,Sunday,17:30,20:00,25,6
+Paytakht,Vertigo,Saturday,08:30,10:30,25,1
+Felestin,The Dark Knight,Saturday,11:00,13:30,20,7
+Arg,M,Saturday,15:30,18:00,15,6
+Iran,Toy Story 3,Sunday,15:00,18:00,20,2
+Mellat,The Great Dictator,Thursday,16:30,19:00,15,9
+Azadi,The Lion King,Wednesday,08:30,11:00,15,8
+Koorosh,Casablanca,Tuesday,12:30,15:00,20,3
+Mellat,Interstellar,Saturday,18:30,20:30,15,8
+Felestin,The Usual Suspects,Monday,14:30,17:30,25,6
+Payam,The Kid,Saturday,11:00,13:30,15,6
+Paytakht,Braveheart,Wednesday,12:00,14:00,25,7
+Esteghlal,Braveheart,Sunday,17:30,19:30,15,3
+Farhang,Paths of Glory,Wednesday,13:00,15:00,20,1
+Farhang,Amélie,Wednesday,18:00,21:00,25,6
+Koorosh,Spirited Away,Monday,17:00,19:30,20,5
+Iran,Memento,Monday,16:00,18:30,15,9
+Alborz,Se7en,Monday,12:00,14:30,15,2
+Paytakht,Modern Times,Thursday,17:30,20:30,20,7
+Alborz,Paths of Glory,Wednesday,16:30,18:30,15,6
+Gholhak,Citizen Kane,Friday,16:30,19:30,25,9
+Paytakht,Django Unchained,Tuesday,11:00,13:00,20,3
+Felestin,Inception,Wednesday,11:00,13:00,25,2
+Arg,Se7en,Sunday,09:00,11:30,25,4
+Gholhak,Double Indemnity,Tuesday,12:30,15:00,25,1
+Ghods,Braveheart,Friday,09:30,11:30,15,6
+Arash,Gladiator,Monday,12:00,15:00,15,9
+Gholhak,Psycho,Saturday,15:00,18:00,20,2
+Felestin,Amélie,Friday,17:30,20:30,15,7
+Mellat,Braveheart,Monday,17:30,19:30,15,2
+Iran,Inception,Sunday,16:30,18:30,15,7
+Koorosh,The Usual Suspects,Saturday,19:00,22:00,25,7
+Farhang,Lawrence of Arabia,Thursday,16:00,18:00,25,8
+Azadi,Bicycle Thieves,Saturday,12:30,15:30,25,6
+Gholhak,Oldeuboi,Friday,11:30,14:30,20,1
+Ghods,Paths of Glory,Thursday,15:30,17:30,25,1
+Farhang,Schindler's List,Thursday,12:00,14:30,15,3
+Esteghlal,Vertigo,Saturday,10:00,12:00,15,8
+Charsoo,The Usual Suspects,Monday,10:30,13:30,20,9
+Payam,The Pianist,Friday,10:30,13:00,25,8
+Koorosh,Django Unchained,Sunday,15:00,17:00,25,9
+Esteghlal,American History X,Wednesday,20:30,22:30,15,9
+Mellat,Whiplash,Saturday,19:30,22:30,15,9
+Azadi,Psycho,Thursday,11:00,14:00,15,7
+Hafez,The Lion King,Tuesday,15:00,17:30,15,6
+Gholhak,L.A. Confidential,Monday,15:30,17:30,20,6
+Gholhak,The Lion King,Thursday,16:00,18:30,25,3
+Felestin,The Great Dictator,Wednesday,12:30,15:00,25,6
+Mellat,Spirited Away,Thursday,14:30,17:00,25,6
+Farhang,The Departed,Monday,19:30,22:00,25,6
+Arg,Life Is Beautiful,Wednesday,17:00,19:30,15,1
+Paytakht,Double Indemnity,Monday,16:00,18:30,25,1
+Hafez,Citizen Kane,Wednesday,13:00,16:00,20,8
+Farhang,Django Unchained,Tuesday,12:30,14:30,20,9
+Farhang,Django Unchained,Sunday,15:30,17:30,25,2
+Charsoo,The Green Mile,Wednesday,18:00,21:00,25,6
+Esteghlal,M,Wednesday,13:00,15:30,20,2
+Alborz,Alien,Tuesday,20:00,22:00,25,9
+Ghods,The Dark Knight,Thursday,19:00,21:30,25,8
+Paytakht,The Green Mile,Tuesday,19:30,22:30,25,7
+Esteghlal,Star Wars,Thursday,11:00,14:00,25,8
+Felestin,Amadeus,Thursday,10:30,12:30,25,1
+Azadi,Lawrence of Arabia,Friday,16:00,18:00,25,7
+Eram,Rear Window,Monday,08:00,10:00,25,4
+Ghods,American Beauty,Friday,20:00,23:00,15,8
+Payam,Apocalypse Now,Monday,10:30,12:30,20,3
+Felestin,Braveheart,Tuesday,20:30,22:30,20,9
+Hafez,Das Boot,Saturday,19:30,22:00,25,4
+Gholhak,Cinema Paradiso,Friday,19:30,22:00,25,1
+Azadi,Amélie,Tuesday,17:00,20:00,20,6
+Arg,The Kid,Thursday,13:00,15:30,15,9
+Mellat,Life Is Beautiful,Wednesday,20:00,22:30,20,1
+Eram,Inside Out,Monday,11:00,13:30,20,5
+Felestin,The Lion King,Sunday,20:00,22:30,25,9
+Iran,North by Northwest,Wednesday,08:30,11:30,25,8
+Arg,Cinema Paradiso,Monday,18:30,21:00,15,1
+Ghods,Bicycle Thieves,Sunday,10:30,13:30,25,2
+Arash,Paths of Glory,Wednesday,16:30,18:30,25,9
+Paytakht,Casablanca,Friday,14:30,17:00,15,2
+Mellat,Whiplash,Friday,08:30,11:30,25,2
+Gholhak,Forrest Gump,Friday,13:30,16:00,25,2
+Esteghlal,Whiplash,Sunday,09:00,12:00,15,7
+Felestin,Oldeuboi,Monday,19:00,22:00,15,5
+Arg,Inception,Tuesday,13:30,15:30,20,2
+Mellat,Toy Story 3,Thursday,09:30,12:30,25,9
+Mellat,Princess Mononoke,Monday,15:00,18:00,25,1
+Javan,Bicycle Thieves,Thursday,14:00,17:00,20,8
+Farhang,Modern Times,Friday,15:00,18:00,15,5
+Gholhak,Paths of Glory,Saturday,13:30,15:30,15,8
+Farhang,Psycho,Tuesday,08:30,11:30,15,8
+Javan,Goodfellas,Friday,20:00,22:00,25,3
+Paytakht,WALL·E,Monday,14:30,17:30,20,6
+Gholhak,City of God,Monday,09:00,12:00,20,5
+Paytakht,The Prestige,Friday,13:30,16:30,25,5
+Payam,Amadeus,Sunday,08:30,10:30,20,9
+Azadi,Double Indemnity,Monday,10:30,13:00,25,8
+Koorosh,Bicycle Thieves,Monday,11:30,14:30,15,4
+Koorosh,Lawrence of Arabia,Sunday,20:30,22:30,15,5
+Farhang,The Departed,Saturday,09:00,11:30,20,3
+Eram,The Kid,Friday,18:30,21:00,20,1
+Felestin,A Clockwork Orange,Wednesday,16:30,19:30,25,1
+Eram,Cinema Paradiso,Wednesday,14:30,17:00,25,6
+Esteghlal,The Departed,Sunday,19:00,21:30,25,4
+Payam,Cinema Paradiso,Wednesday,09:30,12:00,20,8
+Paytakht,The Godfather,Sunday,11:00,13:30,15,9
+Iran,The Green Mile,Monday,11:30,14:30,15,6
+Charsoo,Psycho,Friday,13:00,16:00,20,5
+Arg,Amélie,Monday,16:30,19:30,25,8
+Koorosh,Alien,Sunday,15:30,17:30,25,8
+Koorosh,Goodfellas,Saturday,11:00,13:00,20,7
+Farhang,American History X,Tuesday,12:30,14:30,15,4
+Iran,Toy Story 3,Tuesday,18:00,21:00,20,8
+Koorosh,Inception,Wednesday,18:00,20:00,25,9
+Arash,Amadeus,Sunday,15:00,17:00,15,4
+Koorosh,City of God,Monday,11:30,14:30,20,3
+Payam,The Intouchables,Monday,13:00,15:00,25,3
+Paytakht,The Sting,Tuesday,20:30,23:30,15,9
+Eram,The Great Dictator,Tuesday,16:00,18:30,20,3
+Gholhak,Schindler's List,Monday,14:30,17:00,15,8
+Esteghlal,Amélie,Friday,19:00,22:00,15,5
+Arash,The Kid,Sunday,11:00,13:30,15,3
+Gholhak,The Dark Knight,Monday,14:00,16:30,25,6
+Azadi,Aliens,Friday,15:30,18:00,20,4
+Javan,The Matrix,Tuesday,17:00,19:30,20,2
+Mellat,The Dark Knight,Thursday,18:30,21:00,15,2
+Eram,Goodfellas,Saturday,20:00,22:00,15,3
+Eram,City of God,Tuesday,11:30,14:30,25,3
+Arash,City Lights,Wednesday,15:00,18:00,20,6
+Alborz,The Pianist,Sunday,16:30,19:00,15,8
+Arash,The Dark Knight,Thursday,15:00,17:30,25,4
+Paytakht,M,Saturday,11:00,13:30,25,2
+Eram,Star Wars,Wednesday,14:00,17:00,25,4
+Paytakht,American History X,Sunday,08:30,10:30,15,8
+Arash,The Kid,Wednesday,19:00,21:30,15,1
+Arash,The Kid,Sunday,11:00,13:30,20,8
+Javan,American History X,Friday,15:00,17:00,20,2
+Azadi,The Usual Suspects,Friday,11:00,14:00,15,3
+Charsoo,Interstellar,Monday,11:30,13:30,20,2
+Arash,Modern Times,Sunday,08:00,11:00,15,9
+Mellat,The Usual Suspects,Tuesday,17:30,20:30,25,8
+Arg,Star Wars,Saturday,13:00,16:00,15,1
+Hafez,Paths of Glory,Tuesday,09:00,11:00,15,7
+Esteghlal,Seven Samurai,Friday,18:00,20:30,20,2
+Mellat,Toy Story,Friday,16:00,19:00,25,3
+Arg,Toy Story,Tuesday,11:00,14:00,25,7
+Farhang,Citizen Kane,Thursday,11:00,14:00,15,5
+Gholhak,Braveheart,Sunday,18:30,20:30,20,7
+Alborz,The Kid,Thursday,08:00,10:30,20,7
+Gholhak,Apocalypse Now,Thursday,20:00,22:00,25,6
+Arash,Psycho,Thursday,16:30,19:30,20,6
+Koorosh,Amadeus,Monday,20:30,22:30,15,1
+Farhang,Psycho,Thursday,19:30,22:30,20,5
+Javan,Cinema Paradiso,Friday,17:00,19:30,20,2
+Alborz,Amadeus,Tuesday,13:30,15:30,20,5
+Charsoo,Snatch.,Tuesday,19:00,22:00,25,3
+Javan,Spirited Away,Friday,14:30,17:00,20,4
+Arg,The Intouchables,Saturday,12:00,14:00,25,5
+Alborz,Toy Story 3,Thursday,14:30,17:30,20,7
+Alborz,Cinema Paradiso,Monday,09:30,12:00,25,2
+Alborz,Psycho,Monday,17:00,20:00,25,3
+Gholhak,WALL·E,Saturday,16:00,19:00,15,2
+Esteghlal,L.A. Confidential,Thursday,09:00,11:00,25,6
+Payam,Psycho,Monday,09:00,12:00,20,2
+Mellat,Memento,Thursday,15:00,17:30,25,5
+Felestin,The Pianist,Friday,16:00,18:30,25,7
+Alborz,Toy Story,Wednesday,11:30,14:30,20,8
+Farhang,Inception,Monday,18:00,20:00,20,9
+Ghods,Amélie,Wednesday,11:30,14:30,15,3
+Hafez,Princess Mononoke,Sunday,17:30,20:30,15,7
+Azadi,Toy Story,Thursday,19:30,22:30,15,3
+Hafez,Toy Story 3,Monday,13:00,16:00,15,8
+Koorosh,Pulp Fiction,Saturday,12:00,15:00,15,9
+Felestin,Modern Times,Wednesday,15:30,18:30,15,2
+Hafez,Fight Club,Monday,11:00,13:30,25,2
+Felestin,Inception,Sunday,09:00,11:00,15,3
+Arash,City of God,Saturday,16:30,19:30,25,3
+Ghods,Toy Story 3,Wednesday,19:30,22:30,20,4
+Gholhak,Star Wars,Tuesday,09:30,12:30,15,2
+Payam,Das Boot,Saturday,18:00,20:30,20,9
+Farhang,Inception,Wednesday,08:30,10:30,15,1
+Iran,The Dark Knight,Friday,17:00,19:30,15,1
+Arg,Bicycle Thieves,Tuesday,15:00,18:00,15,4
+Mellat,The Lion King,Thursday,20:00,22:30,25,2
+Paytakht,Double Indemnity,Sunday,10:30,13:00,20,6
+Arg,The Godfather,Tuesday,09:30,12:00,20,6
+Payam,Oldeuboi,Monday,14:30,17:30,20,1
+Azadi,Oldeuboi,Saturday,15:00,18:00,20,2
+Charsoo,Princess Mononoke,Wednesday,09:00,12:00,25,4
+Esteghlal,The Usual Suspects,Wednesday,14:30,17:30,20,3
+Mellat,Double Indemnity,Sunday,10:30,13:00,20,5
+Charsoo,City of God,Friday,20:00,23:00,15,1
+Gholhak,Interstellar,Wednesday,08:00,10:00,20,4
+Hafez,Modern Times,Friday,19:30,22:30,20,8
+Arash,M,Wednesday,11:00,13:30,15,8
+Esteghlal,Citizen Kane,Monday,15:00,18:00,20,2
+Hafez,Spirited Away,Thursday,08:30,11:00,20,6
+Arg,Back to the Future,Saturday,13:30,15:30,20,7
+Mellat,Reservoir Dogs,Sunday,17:00,20:00,20,8
+Felestin,Rashômon,Friday,13:30,16:00,25,3
+Koorosh,Cinema Paradiso,Sunday,13:00,15:30,25,2
+Koorosh,Gladiator,Tuesday,17:30,20:30,20,1
+Arash,Fight Club,Saturday,15:00,17:30,25,1
+Iran,Inside Out,Sunday,09:30,12:00,25,1
+Azadi,Pulp Fiction,Monday,12:00,15:00,15,9
+Javan,Reservoir Dogs,Sunday,08:30,11:30,25,3
+Hafez,Schindler's List,Wednesday,16:30,19:00,20,1
+Javan,Das Boot,Wednesday,19:30,22:00,20,8
+Javan,L.A. Confidential,Monday,08:30,10:30,20,8
+Charsoo,Casablanca,Friday,11:30,14:00,20,6
+Payam,Vertigo,Sunday,11:30,13:30,25,3
+Paytakht,Django Unchained,Tuesday,17:30,19:30,25,2
+Payam,The Dark Knight,Monday,19:30,22:00,25,9
+Alborz,North by Northwest,Monday,08:30,11:30,20,1
+Esteghlal,Whiplash,Thursday,11:30,14:30,25,8
+Gholhak,Apocalypse Now,Tuesday,12:00,14:00,15,3
+Payam,12 Angry Men,Friday,11:30,13:30,25,8
+Arash,Amadeus,Saturday,18:00,20:00,15,7
+Azadi,Taxi Driver,Thursday,20:00,22:30,25,4
+Eram,Goodfellas,Thursday,20:00,22:00,25,1
+Gholhak,Rashômon,Tuesday,17:00,19:30,20,8
+Gholhak,Full Metal Jacket,Friday,15:00,17:00,25,1
+Arg,WALL·E,Tuesday,12:30,15:30,20,5
+Arash,Rear Window,Thursday,11:00,13:00,25,2
+Esteghlal,Taxi Driver,Saturday,10:30,13:00,20,1
+Eram,12 Angry Men,Friday,11:00,13:00,15,9
+Charsoo,Back to the Future,Sunday,12:00,14:00,20,1
+Koorosh,Aliens,Monday,11:30,14:00,20,7
+Koorosh,The Godfather,Monday,10:00,12:30,15,7
+Felestin,The Green Mile,Saturday,17:00,20:00,20,1
+Arg,The Shining,Tuesday,17:00,19:00,20,7
+Gholhak,The Sting,Tuesday,14:30,17:30,15,6
+Charsoo,Double Indemnity,Friday,14:00,16:30,25,7
+Iran,Lawrence of Arabia,Sunday,08:30,10:30,25,8
+Azadi,Toy Story 3,Saturday,14:00,17:00,20,2
+Koorosh,American History X,Tuesday,11:30,13:30,25,4
+Charsoo,The Shining,Monday,09:00,11:00,20,5
+Alborz,The Kid,Sunday,19:30,22:00,15,5
+Arash,Life Is Beautiful,Sunday,13:00,15:30,25,9
+Paytakht,Memento,Sunday,09:30,12:00,15,8
+Farhang,Apocalypse Now,Friday,15:00,17:00,15,4
+Gholhak,Rear Window,Saturday,10:30,12:30,20,6
+Alborz,Toy Story,Wednesday,12:00,15:00,20,7
+Koorosh,Double Indemnity,Wednesday,15:30,18:00,25,1
+Alborz,Spirited Away,Monday,08:00,10:30,25,4
+Felestin,Braveheart,Tuesday,14:00,16:00,25,5
+Farhang,Forrest Gump,Wednesday,11:30,14:00,25,6
+Ghods,12 Angry Men,Sunday,17:30,19:30,25,6
+Javan,Cinema Paradiso,Tuesday,09:30,12:00,25,1
+Koorosh,12 Angry Men,Thursday,13:30,15:30,15,5
+Paytakht,Psycho,Saturday,13:30,16:30,15,6
+Javan,A Clockwork Orange,Sunday,15:00,18:00,20,2
+Payam,Toy Story 3,Saturday,13:30,16:30,15,8
+Charsoo,Back to the Future,Tuesday,15:00,17:00,15,2
+Felestin,Sunset Blvd.,Tuesday,08:00,10:00,25,3
+Koorosh,North by Northwest,Tuesday,12:30,15:30,20,5
+Koorosh,Goodfellas,Saturday,13:00,15:00,20,6
+Eram,The Sting,Wednesday,11:30,14:30,25,8
+Hafez,Citizen Kane,Friday,18:30,21:30,25,9
+Alborz,The Matrix,Sunday,09:30,12:00,15,2
+Eram,The Sting,Friday,11:30,14:30,15,1
+Arash,Gladiator,Saturday,18:00,21:00,25,8
+Esteghlal,Bicycle Thieves,Saturday,18:00,21:00,15,2
+Payam,Modern Times,Friday,09:30,12:30,15,8
+Arash,American Beauty,Monday,08:00,11:00,25,6
+Alborz,Fight Club,Sunday,11:00,13:30,20,2
+Eram,Whiplash,Friday,08:00,11:00,15,7
+Koorosh,12 Angry Men,Wednesday,20:00,22:00,25,4
+Arg,Sunset Blvd.,Friday,20:00,22:00,20,8
+Iran,Django Unchained,Wednesday,19:30,21:30,20,1
+Alborz,Forrest Gump,Friday,14:30,17:00,15,2
+Mellat,Gladiator,Saturday,15:30,18:30,25,8
+Iran,Gladiator,Sunday,17:30,20:30,20,1
+Felestin,The Green Mile,Friday,19:30,22:30,15,6
+Charsoo,Psycho,Monday,18:00,21:00,20,7
+Iran,12 Angry Men,Saturday,11:30,13:30,20,7
+Eram,Inception,Tuesday,14:30,16:30,25,9
+Koorosh,The Sting,Saturday,20:30,23:30,15,4
+Koorosh,City Lights,Friday,12:00,15:00,15,8
+Eram,Memento,Friday,10:30,13:00,20,8
+Koorosh,The Matrix,Monday,09:30,12:00,25,7
+Koorosh,Citizen Kane,Friday,08:30,11:30,15,2
+Charsoo,Taxi Driver,Sunday,10:00,12:30,25,9
+Ghods,Braveheart,Friday,11:00,13:00,25,1
+Koorosh,Django Unchained,Wednesday,19:30,21:30,25,3
+Charsoo,The Godfather,Wednesday,11:00,13:30,15,3
+Payam,Rashômon,Wednesday,14:00,16:30,20,3
+Iran,The Godfather,Saturday,18:00,20:30,25,3
+Felestin,The Godfather,Sunday,17:00,19:30,20,3
+Esteghlal,Rear Window,Thursday,12:00,14:00,15,6
+Koorosh,The Lion King,Saturday,12:00,14:30,25,4
+Hafez,Whiplash,Wednesday,11:00,14:00,25,4
+Ghods,Forrest Gump,Saturday,10:30,13:00,20,2
+Gholhak,Schindler's List,Monday,14:30,17:00,20,6
+Mellat,Life Is Beautiful,Friday,16:30,19:00,15,6
+Alborz,Casablanca,Wednesday,17:30,20:00,25,8
+Paytakht,Rear Window,Thursday,09:30,11:30,20,5
+Arg,Back to the Future,Tuesday,10:00,12:00,20,9
+Farhang,The Shining,Sunday,16:00,18:00,25,2
+Hafez,The Intouchables,Thursday,09:30,11:30,25,8
+Farhang,Forrest Gump,Thursday,14:30,17:00,20,5
+Mellat,Lawrence of Arabia,Sunday,13:00,15:00,15,2
+Farhang,City Lights,Monday,08:30,11:30,15,1
+Hafez,M,Thursday,19:00,21:30,20,4
+Alborz,Inside Out,Tuesday,16:30,19:00,15,8
+Eram,Casablanca,Tuesday,08:00,10:30,25,3
+Koorosh,Cinema Paradiso,Wednesday,11:30,14:00,20,9
+Iran,Spirited Away,Saturday,16:00,18:30,25,3
+Arash,Braveheart,Tuesday,14:00,16:00,20,4
+Hafez,L.A. Confidential,Saturday,19:30,21:30,20,9
+Alborz,L.A. Confidential,Wednesday,14:30,16:30,25,9
+Eram,Pulp Fiction,Thursday,14:00,17:00,20,9
+Arg,Braveheart,Friday,15:00,17:00,15,8
+Azadi,Whiplash,Friday,20:00,23:00,15,8
+Hafez,Amélie,Friday,11:30,14:30,25,3
+Charsoo,The Prestige,Tuesday,13:00,16:00,20,4
+Eram,Amadeus,Thursday,12:00,14:00,25,6
+Paytakht,American Beauty,Thursday,10:30,13:30,20,5
+Felestin,Paths of Glory,Friday,08:30,10:30,15,5
+Arash,The Dark Knight,Saturday,17:30,20:00,15,6
+Hafez,Inception,Tuesday,12:30,14:30,15,7
+Eram,The Pianist,Sunday,10:00,12:30,25,3
+Azadi,Inception,Sunday,11:30,13:30,15,1
+Esteghlal,The Shining,Sunday,11:30,13:30,15,9
+Arash,12 Angry Men,Sunday,12:30,14:30,20,8
+Payam,American Beauty,Wednesday,19:30,22:30,25,4
+Hafez,Bicycle Thieves,Monday,11:00,14:00,20,1
+Iran,Inside Out,Wednesday,10:30,13:00,25,7
+Koorosh,North by Northwest,Tuesday,13:30,16:30,20,7
+Alborz,Toy Story 3,Tuesday,12:30,15:30,15,2
+Payam,The Dark Knight,Wednesday,11:00,13:30,25,8
+Felestin,L.A. Confidential,Saturday,14:00,16:00,15,5
+Azadi,L.A. Confidential,Tuesday,20:00,22:00,25,6
+Eram,The Intouchables,Monday,15:30,17:30,20,2
+Esteghlal,A Clockwork Orange,Tuesday,10:00,13:00,25,9
+Felestin,Gladiator,Sunday,20:00,23:00,20,7
+Ghods,The Dark Knight,Sunday,10:00,12:30,20,5
+Eram,Gladiator,Friday,17:00,20:00,25,4
+Arash,Seven Samurai,Friday,15:30,18:00,15,1
+Charsoo,Cinema Paradiso,Friday,11:30,14:00,20,7
+Azadi,North by Northwest,Sunday,09:00,12:00,15,9
+Azadi,12 Angry Men,Monday,10:30,12:30,15,6
+Iran,The Kid,Saturday,12:30,15:00,25,2
+Alborz,Rashômon,Tuesday,19:30,22:00,20,2
+Hafez,Toy Story 3,Tuesday,15:00,18:00,15,7
+Paytakht,Das Boot,Thursday,08:30,11:00,25,1
+Eram,Rear Window,Monday,12:30,14:30,20,8
+Gholhak,Forrest Gump,Friday,12:00,14:30,20,6
+Paytakht,Gladiator,Friday,12:00,15:00,25,7
+Arash,12 Angry Men,Wednesday,17:00,19:00,25,5
+Paytakht,Princess Mononoke,Sunday,12:00,15:00,15,8
+Farhang,Star Wars,Saturday,19:30,22:30,20,6
+Javan,The Sting,Saturday,09:30,12:30,25,8
+Paytakht,Citizen Kane,Wednesday,16:00,19:00,15,3
+Esteghlal,The Shining,Saturday,10:30,12:30,15,6
+Gholhak,Interstellar,Sunday,15:30,17:30,25,4
+Arash,Se7en,Saturday,12:00,14:30,15,3
+Esteghlal,American Beauty,Tuesday,12:00,15:00,20,1
+Arash,Spirited Away,Thursday,08:30,11:00,15,4
+Javan,Taxi Driver,Thursday,13:00,15:30,15,8
+Farhang,Spirited Away,Thursday,14:30,17:00,15,2
+Azadi,12 Angry Men,Thursday,14:00,16:00,15,4
+Farhang,The Green Mile,Sunday,09:30,12:30,15,8
+Azadi,The Dark Knight,Monday,09:30,12:00,20,7
+Eram,Goodfellas,Wednesday,13:30,15:30,15,9
+Charsoo,M,Tuesday,10:00,12:30,20,4
+Charsoo,Toy Story 3,Tuesday,12:00,15:00,15,3
+Iran,Toy Story 3,Tuesday,09:00,12:00,15,8
+Arash,The Matrix,Saturday,15:00,17:30,25,9
+Ghods,Django Unchained,Sunday,15:30,17:30,20,1
+Ghods,Rashômon,Thursday,10:00,12:30,15,9
+Payam,The Shining,Friday,20:00,22:00,20,7
+Mellat,The Green Mile,Monday,16:00,19:00,20,1
+Esteghlal,Django Unchained,Sunday,12:30,14:30,25,4
+Payam,Lawrence of Arabia,Sunday,08:00,10:00,15,4
+Felestin,The Sting,Friday,16:30,19:30,25,2
+Esteghlal,Casablanca,Sunday,20:00,22:30,20,4
+Gholhak,Bicycle Thieves,Friday,16:30,19:30,15,5
+Koorosh,L.A. Confidential,Friday,12:00,14:00,15,4
+Ghods,The Shining,Sunday,15:00,17:00,20,1
+Paytakht,M,Wednesday,15:00,17:30,25,4
+Koorosh,A Clockwork Orange,Saturday,09:30,12:30,15,9
+Koorosh,The Kid,Saturday,09:00,11:30,20,8
+Farhang,M,Wednesday,12:30,15:00,25,6
+Gholhak,Inside Out,Tuesday,08:00,10:30,25,9
+Arash,Rashômon,Saturday,19:30,22:00,20,2
+Arash,Spirited Away,Wednesday,09:30,12:00,25,4
+Farhang,Toy Story,Friday,08:00,11:00,15,6
+Azadi,City of God,Tuesday,20:30,23:30,15,1
+Esteghlal,Double Indemnity,Sunday,17:30,20:00,15,1
+Farhang,The Shining,Saturday,15:30,17:30,25,8
+Iran,Whiplash,Thursday,19:00,22:00,25,9
+Javan,Back to the Future,Thursday,11:30,13:30,15,1
+Paytakht,Spirited Away,Friday,20:30,23:00,15,3
+Hafez,Gladiator,Thursday,16:00,19:00,25,8
+Koorosh,City of God,Thursday,08:00,11:00,25,9
+Koorosh,The Pianist,Saturday,16:30,19:00,25,2
+Charsoo,The Matrix,Tuesday,19:30,22:00,25,1
+Paytakht,Lawrence of Arabia,Monday,08:30,10:30,15,2
+Azadi,Aliens,Friday,20:00,22:30,20,1
+Paytakht,Forrest Gump,Monday,19:30,22:00,25,8
+Arash,Citizen Kane,Sunday,18:30,21:30,25,7
+Esteghlal,WALL·E,Saturday,09:30,12:30,25,6
+Javan,City Lights,Thursday,20:00,23:00,15,4
+Hafez,The Pianist,Sunday,20:30,23:00,15,5
+Gholhak,The Matrix,Sunday,11:00,13:30,15,5
+Arg,M,Tuesday,16:30,19:00,20,1
+Eram,Modern Times,Thursday,19:30,22:30,15,8
+Javan,The Matrix,Friday,15:00,17:30,15,9
+Arg,Psycho,Saturday,12:30,15:30,20,2
+Felestin,Interstellar,Wednesday,15:00,17:00,20,3
+Ghods,Django Unchained,Monday,20:00,22:00,25,5
+Esteghlal,Apocalypse Now,Saturday,12:30,14:30,25,2
+Paytakht,12 Angry Men,Monday,09:00,11:00,15,1
+Koorosh,Star Wars,Tuesday,18:30,21:30,25,2
+Koorosh,Cinema Paradiso,Thursday,10:00,12:30,25,2
+Javan,Schindler's List,Thursday,17:30,20:00,20,1
+Gholhak,Vertigo,Friday,16:00,18:00,20,6
+Gholhak,The Departed,Sunday,17:30,20:00,25,7
+Koorosh,Toy Story,Thursday,15:00,18:00,20,1
+Ghods,The Matrix,Tuesday,10:00,12:30,15,9
+Iran,Double Indemnity,Saturday,10:30,13:00,25,6
+Payam,M,Wednesday,10:30,13:00,20,4
+Alborz,Braveheart,Monday,12:00,14:00,20,5
+Eram,Das Boot,Sunday,08:30,11:00,20,4
+Gholhak,Citizen Kane,Friday,19:00,22:00,15,3
+Alborz,Bicycle Thieves,Thursday,12:30,15:30,15,3
+Mellat,The Pianist,Friday,13:30,16:00,25,7
+Javan,Toy Story 3,Friday,14:00,17:00,15,3
+Charsoo,Inside Out,Saturday,09:30,12:00,25,9
+Alborz,Snatch.,Tuesday,19:00,22:00,15,8
+Esteghlal,Alien,Saturday,18:30,20:30,25,6
+Paytakht,Rashômon,Tuesday,09:00,11:30,25,7
+Farhang,Rear Window,Monday,19:00,21:00,20,4
+Paytakht,City of God,Friday,10:00,13:00,25,2
+Mellat,Rashômon,Sunday,18:30,21:00,25,2
+Charsoo,Rashômon,Monday,10:30,13:00,20,3
+Koorosh,Fight Club,Thursday,17:00,19:30,15,4
+Payam,Alien,Saturday,18:30,20:30,15,1
+Gholhak,L.A. Confidential,Thursday,15:00,17:00,25,2
+Payam,City of God,Friday,08:00,11:00,20,9
+Gholhak,The Great Dictator,Friday,16:30,19:00,25,1
+Gholhak,Star Wars,Saturday,14:30,17:30,25,9
+Hafez,Reservoir Dogs,Sunday,08:30,11:30,20,6
+Iran,The Great Dictator,Tuesday,12:00,14:30,20,5
+Iran,Psycho,Thursday,08:00,11:00,15,4
+Felestin,Sunset Blvd.,Saturday,18:00,20:00,25,7
+Alborz,Princess Mononoke,Sunday,20:00,23:00,20,8
+Javan,Casablanca,Sunday,19:30,22:00,20,5
+Felestin,Cinema Paradiso,Sunday,09:00,11:30,25,9
+Esteghlal,Forrest Gump,Thursday,15:30,18:00,25,8
+Gholhak,Aliens,Thursday,16:30,19:00,20,4
+Ghods,Toy Story,Monday,18:30,21:30,25,4
+Ghods,North by Northwest,Tuesday,11:00,14:00,25,2
+Mellat,Braveheart,Thursday,13:00,15:00,25,4
+Azadi,Lawrence of Arabia,Thursday,14:30,16:30,25,5
+Paytakht,Braveheart,Monday,16:30,18:30,15,3
+Ghods,North by Northwest,Wednesday,10:00,13:00,25,8
+Ghods,The Godfather,Friday,13:30,16:00,20,7
+Payam,Oldeuboi,Monday,12:00,15:00,20,1
+Arg,Reservoir Dogs,Thursday,09:00,12:00,20,7
+Felestin,Das Boot,Monday,19:30,22:00,20,7
+Hafez,Seven Samurai,Thursday,19:00,21:30,25,8
+Azadi,The Intouchables,Tuesday,14:00,16:00,20,3
+Azadi,American Beauty,Friday,12:00,15:00,20,8
+Arash,Schindler's List,Wednesday,11:00,13:30,25,8
+Arash,Amadeus,Saturday,14:30,16:30,20,5
+Payam,Sunset Blvd.,Tuesday,13:00,15:00,20,4
+Farhang,Interstellar,Wednesday,11:00,13:00,15,3
+Ghods,Se7en,Friday,18:30,21:00,25,6
+Felestin,Amélie,Monday,08:00,11:00,25,2
+Koorosh,Aliens,Monday,08:00,10:30,25,2
+Mellat,Inception,Thursday,08:30,10:30,20,6
+Payam,Schindler's List,Friday,14:00,16:30,25,8
+Hafez,M,Monday,15:30,18:00,25,6
+Esteghlal,L.A. Confidential,Monday,10:30,12:30,25,5
+Eram,Inside Out,Monday,10:00,12:30,15,8
+Gholhak,The Shining,Saturday,12:30,14:30,20,4
+Koorosh,Toy Story,Wednesday,13:30,16:30,15,6
+Arg,Rear Window,Sunday,16:00,18:00,15,6
+Farhang,Vertigo,Thursday,20:30,22:30,20,3
+Gholhak,Taxi Driver,Wednesday,10:00,12:30,20,5
+Felestin,Toy Story,Monday,14:00,17:00,15,6
+Javan,The Departed,Tuesday,16:30,19:00,25,8
+Ghods,Interstellar,Monday,13:30,15:30,20,5
+Koorosh,American History X,Wednesday,18:00,20:00,20,2
+Paytakht,WALL·E,Sunday,16:30,19:30,20,1
+Gholhak,Rashômon,Wednesday,10:00,12:30,15,5
+Farhang,Amadeus,Sunday,11:30,13:30,20,6
+Farhang,Toy Story,Tuesday,18:30,21:30,25,9
+Iran,L.A. Confidential,Thursday,13:00,15:00,20,8
+Hafez,Reservoir Dogs,Saturday,13:30,16:30,15,8
+Eram,Se7en,Thursday,08:30,11:00,20,5
+Gholhak,The Green Mile,Sunday,14:30,17:30,25,3
+Arg,City Lights,Friday,18:30,21:30,25,5
+Iran,Vertigo,Friday,20:00,22:00,25,9
+Arash,Toy Story 3,Wednesday,16:00,19:00,15,7
+Alborz,Amélie,Tuesday,14:00,17:00,15,5
+Koorosh,Amélie,Wednesday,18:30,21:30,25,9
+Ghods,Whiplash,Saturday,08:00,11:00,25,9
+Azadi,North by Northwest,Sunday,08:30,11:30,20,2
+Javan,Lawrence of Arabia,Tuesday,10:00,12:00,25,2
+Javan,Amadeus,Saturday,12:30,14:30,15,4
+Felestin,North by Northwest,Thursday,20:30,23:30,20,7
+Gholhak,Snatch.,Thursday,11:00,14:00,20,8
+Azadi,The Dark Knight,Friday,18:30,21:00,20,8
+Ghods,Sunset Blvd.,Wednesday,10:30,12:30,25,7
+Charsoo,Se7en,Friday,08:30,11:00,20,7
+Ghods,Back to the Future,Sunday,12:30,14:30,20,1
+Azadi,Toy Story 3,Monday,20:00,23:00,20,3
+Gholhak,The Godfather,Tuesday,16:00,18:30,20,9
+Esteghlal,American Beauty,Friday,18:30,21:30,15,4
+Gholhak,Lawrence of Arabia,Thursday,20:30,22:30,25,5
+Payam,The Usual Suspects,Sunday,20:00,23:00,25,4
+Payam,A Clockwork Orange,Monday,12:00,15:00,20,3
+Alborz,Modern Times,Sunday,13:30,16:30,25,8
+Arash,Forrest Gump,Saturday,15:00,17:30,15,9
+Gholhak,Alien,Thursday,13:30,15:30,20,9
+Felestin,Paths of Glory,Thursday,16:30,18:30,15,3
+Azadi,Das Boot,Sunday,15:30,18:00,25,3
+Payam,Amélie,Friday,11:30,14:30,20,5
+Felestin,Psycho,Wednesday,15:00,18:00,25,7
+Farhang,Fight Club,Friday,09:30,12:00,25,8
+Javan,The Departed,Wednesday,13:30,16:00,25,1
+Hafez,Bicycle Thieves,Wednesday,16:00,19:00,25,9
+Payam,Psycho,Sunday,13:30,16:30,25,4
+Paytakht,M,Monday,12:30,15:00,15,8
+Mellat,Aliens,Wednesday,08:30,11:00,25,3
+Mellat,Gladiator,Friday,09:30,12:30,20,3
+Arash,Bicycle Thieves,Thursday,20:30,23:30,15,3
+Gholhak,WALL·E,Saturday,15:00,18:00,20,2
+Charsoo,12 Angry Men,Friday,11:00,13:00,20,8
+Alborz,American Beauty,Saturday,15:00,18:00,15,9
+Esteghlal,Citizen Kane,Friday,19:30,22:30,25,2
+Gholhak,Das Boot,Friday,11:30,14:00,25,5
+Ghods,City Lights,Monday,15:30,18:30,20,1
+Gholhak,American Beauty,Tuesday,16:30,19:30,20,3
+Esteghlal,The Godfather,Sunday,08:00,10:30,15,4
+Azadi,Interstellar,Sunday,12:30,14:30,20,6
+Hafez,Sunset Blvd.,Saturday,11:30,13:30,20,1
+Hafez,Sunset Blvd.,Saturday,13:30,15:30,20,4
+Esteghlal,M,Saturday,12:00,14:30,20,4
+Ghods,Rear Window,Wednesday,18:00,20:00,20,5
+Javan,Spirited Away,Friday,12:00,14:30,25,3
+Farhang,WALL·E,Wednesday,16:00,19:00,25,6
+Gholhak,Cinema Paradiso,Tuesday,08:30,11:00,20,8
+Mellat,Amélie,Friday,14:30,17:30,25,8
+Felestin,Braveheart,Sunday,10:30,12:30,25,1
+Arash,Forrest Gump,Saturday,18:30,21:00,25,1
+Alborz,Sunset Blvd.,Wednesday,09:00,11:00,20,2
+Esteghlal,Sunset Blvd.,Sunday,14:30,16:30,25,1
+Esteghlal,Rashômon,Thursday,16:00,18:30,25,4
+Ghods,American Beauty,Sunday,19:00,22:00,15,9
+Mellat,City Lights,Monday,11:00,14:00,25,3
+Paytakht,A Clockwork Orange,Saturday,16:30,19:30,25,3
+Felestin,The Kid,Wednesday,20:30,23:00,15,7
+Felestin,The Matrix,Saturday,12:00,14:30,20,4
+Paytakht,American Beauty,Tuesday,11:30,14:30,20,8
+Iran,The Sting,Friday,10:30,13:30,25,7
+Ghods,American Beauty,Thursday,15:30,18:30,15,8
+Koorosh,American Beauty,Friday,09:30,12:30,15,4
+Azadi,WALL·E,Wednesday,10:30,13:30,20,7
+Esteghlal,A Clockwork Orange,Sunday,08:30,11:30,15,3
+Esteghlal,Memento,Monday,14:30,17:00,15,9
+Ghods,Fight Club,Friday,19:00,21:30,20,8
+Charsoo,A Clockwork Orange,Friday,08:00,11:00,20,2
+Javan,Whiplash,Monday,17:00,20:00,15,3
+Farhang,Reservoir Dogs,Wednesday,11:00,14:00,20,8
+Farhang,American Beauty,Sunday,09:00,12:00,15,2
+Payam,Apocalypse Now,Friday,16:00,18:00,15,3
+Farhang,L.A. Confidential,Monday,12:30,14:30,20,3
+Charsoo,The Great Dictator,Sunday,19:00,21:30,25,1
+Arash,A Clockwork Orange,Monday,18:30,21:30,20,1
+Esteghlal,Goodfellas,Sunday,17:00,19:00,25,1
+Arg,Taxi Driver,Thursday,18:30,21:00,15,4
+Charsoo,Fight Club,Saturday,10:00,12:30,25,7
+Eram,Back to the Future,Tuesday,14:30,16:30,15,7
+Koorosh,Toy Story,Saturday,11:00,14:00,15,1
+Mellat,Oldeuboi,Sunday,14:00,17:00,20,5
+Arg,Braveheart,Monday,19:30,21:30,15,7
+Hafez,The Green Mile,Tuesday,12:30,15:30,25,9
+Arash,Toy Story,Monday,19:30,22:30,15,3
+Iran,Memento,Sunday,17:00,19:30,20,3
+Azadi,Sunset Blvd.,Saturday,20:30,22:30,20,1
+Koorosh,Lawrence of Arabia,Sunday,16:00,18:00,20,7
+Azadi,Sunset Blvd.,Friday,19:00,21:00,20,7
+Farhang,Rashômon,Tuesday,18:00,20:30,20,6
+Eram,Princess Mononoke,Friday,14:30,17:30,20,3
+Gholhak,Apocalypse Now,Saturday,10:00,12:00,15,9
+Hafez,Django Unchained,Wednesday,20:30,22:30,15,4
+Felestin,City of God,Sunday,15:30,18:30,25,6
+Arg,The Sting,Friday,08:00,11:00,20,6
+Azadi,Psycho,Friday,12:00,15:00,15,8
+Alborz,Sunset Blvd.,Monday,10:30,12:30,20,2
+Payam,The Sting,Sunday,18:30,21:30,25,1
+Koorosh,Amélie,Monday,11:30,14:30,15,5
+Esteghlal,Aliens,Thursday,17:30,20:00,20,6
+Arg,The Great Dictator,Sunday,17:00,19:30,20,2
+Eram,Django Unchained,Monday,10:00,12:00,15,9
+Farhang,Life Is Beautiful,Saturday,14:00,16:30,20,8
+Paytakht,Reservoir Dogs,Saturday,10:00,13:00,20,5
+Mellat,The Lion King,Saturday,16:00,18:30,20,6
+Hafez,Forrest Gump,Saturday,14:00,16:30,25,6
+Payam,American History X,Thursday,08:00,10:00,25,7
+Esteghlal,The Great Dictator,Friday,19:00,21:30,20,8
+Eram,Gladiator,Tuesday,11:00,14:00,15,8
+Azadi,The Sting,Friday,14:30,17:30,25,3
+Hafez,The Dark Knight,Saturday,17:30,20:00,20,7
+Farhang,Rear Window,Thursday,13:00,15:00,25,8
+Payam,The Sting,Saturday,12:30,15:30,15,8
+Ghods,Modern Times,Friday,10:00,13:00,15,8
+Koorosh,Apocalypse Now,Thursday,08:00,10:00,15,5
+Ghods,Oldeuboi,Sunday,17:00,20:00,20,5
+Charsoo,The Dark Knight,Monday,20:00,22:30,25,3
+Koorosh,Schindler's List,Thursday,11:00,13:30,25,1
+Javan,City Lights,Sunday,16:30,19:30,15,9
+Hafez,Double Indemnity,Wednesday,08:00,10:30,25,3
+Arg,The Dark Knight,Thursday,10:00,12:30,15,1
+Azadi,North by Northwest,Monday,15:30,18:30,15,7
+Azadi,The Matrix,Sunday,10:30,13:00,20,3
+Azadi,Memento,Saturday,17:00,19:30,20,8
+Koorosh,Braveheart,Saturday,17:30,19:30,15,4
+Esteghlal,Oldeuboi,Tuesday,14:00,17:00,20,1
+Ghods,WALL·E,Wednesday,12:00,15:00,20,7
+Mellat,Star Wars,Sunday,13:30,16:30,25,3
+Koorosh,Amadeus,Monday,11:00,13:00,20,1
+Hafez,Modern Times,Saturday,14:00,17:00,15,3
+Hafez,The Departed,Wednesday,12:00,14:30,15,1
+Eram,Psycho,Thursday,10:30,13:30,20,7
+Charsoo,The Dark Knight,Wednesday,18:00,20:30,20,2
+Koorosh,L.A. Confidential,Monday,09:00,11:00,20,7
+Ghods,Django Unchained,Monday,13:00,15:00,20,2
+Arg,Gladiator,Tuesday,10:00,13:00,15,8
+Ghods,Lawrence of Arabia,Wednesday,09:30,11:30,20,4
+Felestin,The Intouchables,Tuesday,08:00,10:00,25,3
+Charsoo,Snatch.,Saturday,10:00,13:00,20,8
+Javan,American History X,Friday,11:00,13:00,15,8
+Koorosh,The Godfather,Monday,08:30,11:00,15,3
+Payam,Citizen Kane,Sunday,19:00,22:00,25,6
+Javan,Amélie,Tuesday,09:00,12:00,15,3
+Esteghlal,Alien,Thursday,14:00,16:00,25,5
+Koorosh,Double Indemnity,Thursday,18:30,21:00,20,2
+Arg,The Prestige,Monday,11:00,14:00,20,2
+Iran,Schindler's List,Wednesday,11:30,14:00,25,1
+Charsoo,The Sting,Monday,15:00,18:00,15,1
+Javan,Princess Mononoke,Friday,18:30,21:30,15,9
+Ghods,American Beauty,Friday,11:00,14:00,15,8
+Gholhak,Django Unchained,Sunday,20:30,22:30,15,5
+Iran,The Usual Suspects,Thursday,17:00,20:00,25,6
+Arash,Snatch.,Monday,13:00,16:00,20,1
+Eram,American History X,Saturday,12:00,14:00,15,9
+Eram,Taxi Driver,Monday,12:00,14:30,20,8
+Mellat,Modern Times,Tuesday,13:30,16:30,20,9
+Koorosh,The Shining,Wednesday,12:30,14:30,20,6
+Paytakht,North by Northwest,Saturday,20:30,23:30,25,4
+Charsoo,The Intouchables,Wednesday,19:00,21:00,20,3
+Esteghlal,Braveheart,Saturday,20:30,22:30,25,9
+Iran,Rear Window,Saturday,17:00,19:00,25,5
+Iran,The Lion King,Thursday,20:30,23:00,25,6
+Hafez,Aliens,Saturday,16:00,18:30,15,9
+Arash,Alien,Saturday,19:30,21:30,20,8
+Charsoo,Fight Club,Thursday,16:30,19:00,25,3
+Koorosh,Alien,Saturday,18:00,20:00,15,5
+Gholhak,Bicycle Thieves,Tuesday,15:30,18:30,25,7
+Paytakht,Star Wars,Friday,19:30,22:30,15,5
+Mellat,The Prestige,Monday,14:30,17:30,20,1
+Eram,L.A. Confidential,Tuesday,15:30,17:30,15,8
+Azadi,Reservoir Dogs,Saturday,10:30,13:30,25,7
+Hafez,Spirited Away,Tuesday,20:30,23:00,25,5
+Farhang,Aliens,Wednesday,13:30,16:00,20,2
+Gholhak,The Kid,Sunday,14:00,16:30,15,6
+Arg,Citizen Kane,Saturday,18:30,21:30,20,3
+Mellat,The Dark Knight,Friday,19:30,22:00,25,3
+Iran,A Clockwork Orange,Thursday,10:00,13:00,25,6
+Payam,Star Wars,Saturday,08:30,11:30,15,1
+Iran,The Lion King,Friday,08:30,11:00,15,9
+Charsoo,The Matrix,Tuesday,12:30,15:00,25,7
+Koorosh,The Matrix,Monday,09:00,11:30,25,4
+Farhang,Double Indemnity,Monday,16:00,18:30,20,3
+Eram,The Sting,Saturday,17:30,20:30,15,7
+Arash,Goodfellas,Saturday,09:00,11:00,25,4
+Payam,Inception,Tuesday,16:00,18:00,15,2
+Payam,City Lights,Thursday,11:00,14:00,25,5
+Charsoo,Alien,Saturday,18:30,20:30,25,2
+Esteghlal,The Shining,Saturday,16:30,18:30,15,2
+Eram,Casablanca,Thursday,16:30,19:00,15,3
+Farhang,The Lion King,Saturday,14:00,16:30,25,5
+Mellat,Casablanca,Friday,09:30,12:00,20,4
+Hafez,Se7en,Saturday,15:00,17:30,25,1
+Eram,Sunset Blvd.,Tuesday,14:00,16:00,20,2
+Felestin,Cinema Paradiso,Thursday,10:30,13:00,20,2
+Arash,Apocalypse Now,Sunday,12:00,14:00,20,4
+Felestin,Amélie,Monday,18:30,21:30,25,2
+Gholhak,Amadeus,Saturday,17:00,19:00,20,9
+Gholhak,The Prestige,Monday,18:00,21:00,20,1
+Gholhak,The Pianist,Thursday,13:00,15:30,15,6
+Koorosh,The Matrix,Thursday,18:30,21:00,15,9
+Charsoo,Braveheart,Wednesday,10:30,12:30,25,5
+Felestin,Snatch.,Tuesday,20:00,23:00,20,3
+Paytakht,American History X,Wednesday,17:00,19:00,15,7
+Esteghlal,Full Metal Jacket,Thursday,20:00,22:00,15,7
+Esteghlal,Full Metal Jacket,Friday,13:00,15:00,15,5
+Eram,M,Sunday,10:00,12:30,20,9
+Hafez,Paths of Glory,Monday,15:00,17:00,20,6
+Charsoo,Interstellar,Tuesday,11:00,13:00,20,7
+Alborz,Das Boot,Tuesday,08:30,11:00,25,5
+Hafez,The Departed,Monday,14:30,17:00,20,3
+Paytakht,Snatch.,Sunday,14:30,17:30,20,1
+Ghods,Full Metal Jacket,Saturday,16:30,18:30,25,5
+Hafez,Oldeuboi,Friday,13:30,16:30,20,2
+Javan,The Lion King,Friday,13:30,16:00,15,2
+Eram,Life Is Beautiful,Monday,18:00,20:30,20,9
+Javan,Seven Samurai,Tuesday,18:00,20:30,15,9
+Arash,Bicycle Thieves,Thursday,20:30,23:30,25,1
+Paytakht,The Kid,Tuesday,09:00,11:30,20,7
+Koorosh,The Usual Suspects,Sunday,11:30,14:30,20,1
+Azadi,Casablanca,Wednesday,08:30,11:00,20,9
+Iran,The Green Mile,Monday,11:30,14:30,25,1
+Koorosh,Das Boot,Sunday,08:30,11:00,25,5
+Azadi,Schindler's List,Sunday,09:00,11:30,20,4
+Arash,12 Angry Men,Saturday,19:30,21:30,20,3
+Hafez,Interstellar,Thursday,12:00,14:00,20,9
+Ghods,Inception,Wednesday,18:00,20:00,20,3
+Azadi,Cinema Paradiso,Wednesday,14:00,16:30,15,3
+Hafez,The Departed,Saturday,20:30,23:00,15,9
+Arash,Apocalypse Now,Sunday,15:00,17:00,15,3
+Paytakht,North by Northwest,Monday,15:30,18:30,15,6
+Arg,Das Boot,Wednesday,17:30,20:00,15,9
+Farhang,Bicycle Thieves,Sunday,18:00,21:00,15,6
+Payam,Amadeus,Monday,15:00,17:00,25,1
+Eram,Princess Mononoke,Monday,14:00,17:00,25,2
+Payam,Oldeuboi,Monday,15:30,18:30,15,3
+Iran,Gladiator,Saturday,19:00,22:00,25,8
+Arash,Princess Mononoke,Wednesday,15:00,18:00,25,6
+Iran,Sunset Blvd.,Saturday,11:30,13:30,25,7
+Ghods,The Great Dictator,Tuesday,13:00,15:30,15,8
+Alborz,Oldeuboi,Monday,15:30,18:30,25,9
+Ghods,Reservoir Dogs,Thursday,16:30,19:30,20,2
+Iran,Schindler's List,Saturday,15:30,18:00,15,9
+Eram,The Green Mile,Tuesday,11:30,14:30,15,3
+Mellat,Amélie,Monday,16:00,19:00,25,4
+Paytakht,The Great Dictator,Tuesday,12:30,15:00,20,1
+Felestin,Django Unchained,Thursday,12:00,14:00,20,7
+Eram,WALL·E,Monday,10:00,13:00,20,9
+Gholhak,Citizen Kane,Wednesday,18:00,21:00,20,7
+Javan,Princess Mononoke,Saturday,15:00,18:00,25,1
+Arg,The Great Dictator,Friday,16:00,18:30,25,9
+Arash,Toy Story,Friday,17:00,20:00,20,4
+Farhang,Princess Mononoke,Tuesday,08:30,11:30,15,9
+Ghods,Bicycle Thieves,Monday,09:00,12:00,20,8
+Esteghlal,Interstellar,Friday,09:30,11:30,25,8
+Koorosh,Psycho,Tuesday,12:30,15:30,25,3
+Gholhak,Star Wars,Sunday,16:30,19:30,15,2
+Iran,Braveheart,Thursday,10:30,12:30,20,6
+Arash,Toy Story,Friday,19:30,22:30,20,4
+Alborz,City Lights,Monday,14:00,17:00,25,5
+Hafez,Seven Samurai,Friday,10:30,13:00,15,2
+Farhang,Princess Mononoke,Saturday,11:00,14:00,20,3
+Iran,12 Angry Men,Tuesday,09:30,11:30,20,1
+Alborz,Fight Club,Thursday,17:00,19:30,20,1
+Felestin,Snatch.,Monday,14:30,17:30,20,6
+Hafez,Back to the Future,Friday,12:00,14:00,20,5
+Alborz,Memento,Sunday,08:30,11:00,15,2
+Azadi,Django Unchained,Friday,13:30,15:30,15,8
+Esteghlal,The Godfather,Sunday,14:30,17:00,25,4
+Ghods,Interstellar,Sunday,11:00,13:00,15,1
+Arash,Snatch.,Friday,13:00,16:00,20,3
+Gholhak,Full Metal Jacket,Friday,10:30,12:30,25,4
+Koorosh,Rashômon,Tuesday,19:00,21:30,15,1
+Charsoo,The Usual Suspects,Thursday,16:00,19:00,25,6
+Felestin,Amélie,Friday,12:00,15:00,25,9
+Farhang,American History X,Wednesday,20:30,22:30,15,9
+Iran,Psycho,Monday,20:30,23:30,15,8
+Koorosh,The Lion King,Sunday,13:00,15:30,25,9
+Javan,Schindler's List,Friday,13:00,15:30,25,6
+Javan,Schindler's List,Saturday,12:30,15:00,20,5
+Arg,Fight Club,Saturday,15:30,18:00,25,9
+Iran,L.A. Confidential,Thursday,10:30,12:30,15,6
+Eram,The Lion King,Tuesday,10:00,12:30,25,2
+Farhang,Vertigo,Thursday,08:30,10:30,15,7
+Felestin,Spirited Away,Saturday,10:00,12:30,25,1
+Alborz,The Pianist,Monday,19:00,21:30,15,4
+Paytakht,American History X,Wednesday,20:00,22:00,15,3
+Javan,Inception,Saturday,10:30,12:30,25,9
+Javan,Inception,Wednesday,20:00,22:00,25,2
+Charsoo,The Usual Suspects,Friday,08:00,11:00,15,8
+Mellat,Sunset Blvd.,Sunday,11:00,13:00,25,9
+Felestin,Modern Times,Friday,12:30,15:30,20,1
+Iran,The Intouchables,Sunday,19:30,21:30,25,4
+Azadi,Forrest Gump,Friday,10:00,12:30,15,1
+Mellat,Interstellar,Tuesday,13:00,15:00,20,3
+Eram,Alien,Tuesday,20:30,22:30,15,5
+Eram,Spirited Away,Sunday,16:30,19:00,15,9
+Koorosh,Amélie,Thursday,15:00,18:00,25,8
+Felestin,The Sting,Tuesday,11:00,14:00,25,4
+Paytakht,A Clockwork Orange,Friday,18:00,21:00,20,6
+Payam,Inception,Monday,11:30,13:30,20,5
+Esteghlal,The Dark Knight,Sunday,10:00,12:30,20,3
+Esteghlal,Inception,Wednesday,08:30,10:30,25,6
+Mellat,A Clockwork Orange,Monday,14:00,17:00,15,9
+Arg,Braveheart,Thursday,10:30,12:30,20,1
+Javan,Braveheart,Thursday,18:30,20:30,15,1
+Javan,The Great Dictator,Tuesday,18:30,21:00,20,8
+Felestin,Amadeus,Monday,12:00,14:00,25,6
+Hafez,Gladiator,Tuesday,13:00,16:00,20,5
+Alborz,Spirited Away,Saturday,11:00,13:30,25,3
+Arash,Das Boot,Thursday,16:00,18:30,20,7
+Koorosh,L.A. Confidential,Friday,17:30,19:30,25,4
+Arash,The Dark Knight,Saturday,09:30,12:00,20,3
+Koorosh,Memento,Thursday,12:30,15:00,20,4
+Payam,Casablanca,Tuesday,12:00,14:30,20,8
+Iran,The Lion King,Saturday,11:00,13:30,20,9
+Arg,American Beauty,Friday,11:00,14:00,15,7
+Charsoo,Rear Window,Monday,18:00,20:00,20,9
+Felestin,Full Metal Jacket,Friday,12:00,14:00,20,3
+Iran,Seven Samurai,Monday,15:00,17:30,25,3
+Paytakht,Modern Times,Tuesday,11:30,14:30,25,4
+Hafez,Django Unchained,Thursday,17:00,19:00,20,4
+Iran,WALL·E,Tuesday,15:00,18:00,15,5
+Gholhak,Rashômon,Monday,08:30,11:00,25,1
+Javan,Das Boot,Sunday,17:00,19:30,25,3
+Arash,Amélie,Sunday,11:30,14:30,20,2
+Payam,Alien,Friday,15:00,17:00,20,1
+Mellat,12 Angry Men,Friday,15:00,17:00,25,4
+Payam,The Pianist,Wednesday,08:30,11:00,20,8
+Payam,Forrest Gump,Tuesday,18:00,20:30,20,9
+Azadi,Se7en,Monday,09:00,11:30,15,8
+Azadi,Rear Window,Thursday,09:30,11:30,20,9
+Esteghlal,The Prestige,Sunday,08:00,11:00,25,1
+Ghods,The Sting,Friday,11:30,14:30,15,2
+Gholhak,Pulp Fiction,Wednesday,20:30,23:30,15,9
+Ghods,Reservoir Dogs,Friday,17:30,20:30,25,8
+Payam,Gladiator,Thursday,15:00,18:00,25,4
+Paytakht,The Dark Knight,Thursday,14:00,16:30,15,9
+Mellat,Citizen Kane,Thursday,13:00,16:00,20,6
+Hafez,The Sting,Tuesday,12:00,15:00,15,4
+Iran,The Pianist,Saturday,18:00,20:30,25,4
+Farhang,The Departed,Sunday,17:30,20:00,15,2
+Paytakht,Star Wars,Saturday,12:30,15:30,20,9
+Javan,Sunset Blvd.,Thursday,18:30,20:30,20,1
+Alborz,Reservoir Dogs,Monday,18:00,21:00,15,4
+Paytakht,The Great Dictator,Saturday,13:30,16:00,20,9
+Felestin,The Pianist,Thursday,15:30,18:00,15,1
+Esteghlal,Braveheart,Saturday,15:30,17:30,25,1
+Azadi,Gladiator,Thursday,08:00,11:00,25,5
+Payam,Back to the Future,Wednesday,16:30,18:30,20,4
+Ghods,Whiplash,Tuesday,17:30,20:30,25,5
+Felestin,The Matrix,Sunday,08:00,10:30,15,7
+Alborz,Full Metal Jacket,Saturday,14:30,16:30,25,7
+Felestin,Inception,Tuesday,17:30,19:30,25,2
+Paytakht,L.A. Confidential,Wednesday,08:30,10:30,25,5
+Javan,Seven Samurai,Wednesday,10:00,12:30,20,3
+Arg,Das Boot,Thursday,08:00,10:30,15,9
+Javan,The Shining,Friday,12:00,14:00,15,7
+Eram,Life Is Beautiful,Thursday,17:00,19:30,15,4
+Farhang,Goodfellas,Friday,11:30,13:30,20,8
+Arg,Back to the Future,Monday,14:00,16:00,25,3
+Paytakht,Django Unchained,Monday,13:00,15:00,15,8
+Charsoo,Braveheart,Sunday,17:30,19:30,15,6
+Ghods,Interstellar,Friday,08:00,10:00,20,4
+Charsoo,Pulp Fiction,Tuesday,11:30,14:30,15,3
+Arash,The Departed,Thursday,10:00,12:30,20,5
+Felestin,Inside Out,Sunday,17:30,20:00,25,1
+Arg,Django Unchained,Sunday,18:30,20:30,20,9
+Arash,Snatch.,Tuesday,13:30,16:30,25,9
+Gholhak,The Lion King,Monday,15:00,17:30,15,6
+Hafez,Interstellar,Monday,18:30,20:30,20,6
+Alborz,Life Is Beautiful,Sunday,14:30,17:00,15,2
+Esteghlal,The Pianist,Thursday,09:30,12:00,15,2
+Iran,Back to the Future,Friday,18:30,20:30,15,8
+Alborz,Fight Club,Friday,15:30,18:00,25,5
+Farhang,The Godfather,Sunday,18:00,20:30,15,3
+Hafez,Toy Story 3,Monday,15:00,18:00,25,4
+Koorosh,Pulp Fiction,Tuesday,09:30,12:30,15,2
+Arg,Django Unchained,Friday,15:00,17:00,25,1
+Eram,Seven Samurai,Thursday,18:30,21:00,15,9
+Felestin,Princess Mononoke,Wednesday,13:30,16:30,25,5
+Eram,The Kid,Wednesday,13:30,16:00,15,9
+Iran,Back to the Future,Saturday,12:30,14:30,15,5
+Farhang,Oldeuboi,Friday,08:30,11:30,15,6
+Alborz,The Sting,Tuesday,10:30,13:30,20,7
+Gholhak,Double Indemnity,Thursday,09:00,11:30,15,5
+Ghods,Cinema Paradiso,Wednesday,16:00,18:30,15,5
+Esteghlal,Toy Story 3,Thursday,13:00,16:00,20,5
+Javan,Bicycle Thieves,Wednesday,11:30,14:30,20,1
+Arash,Double Indemnity,Wednesday,11:30,14:00,20,8
+Farhang,Alien,Thursday,10:00,12:00,20,2
+Mellat,Whiplash,Tuesday,14:00,17:00,25,4
+Koorosh,Vertigo,Thursday,10:30,12:30,15,9
+Alborz,Psycho,Saturday,11:00,14:00,15,4
+Azadi,The Kid,Wednesday,11:30,14:00,25,4
+Alborz,The Godfather,Wednesday,18:30,21:00,20,3
+Gholhak,Modern Times,Monday,12:30,15:30,20,5
+Azadi,Life Is Beautiful,Sunday,11:30,14:00,15,6
+Javan,Bicycle Thieves,Tuesday,17:30,20:30,20,8
+Gholhak,Lawrence of Arabia,Tuesday,11:00,13:00,20,1
+Esteghlal,Star Wars,Thursday,20:30,23:30,25,6
+Felestin,Casablanca,Saturday,15:30,18:00,15,5
+Felestin,Sunset Blvd.,Tuesday,09:00,11:00,15,8
+Eram,The Lion King,Sunday,18:00,20:30,15,7
+Mellat,The Intouchables,Wednesday,17:30,19:30,20,5
+Koorosh,Toy Story 3,Sunday,14:30,17:30,25,5
+Farhang,Memento,Tuesday,12:30,15:00,25,3
+Paytakht,Oldeuboi,Saturday,11:00,14:00,20,9
+Felestin,Apocalypse Now,Sunday,16:00,18:00,15,7
+Iran,Cinema Paradiso,Monday,19:00,21:30,25,8
+Mellat,WALL·E,Thursday,16:30,19:30,15,1
+Arash,Se7en,Friday,16:30,19:00,15,9
+Javan,Inception,Sunday,19:00,21:00,20,1
+Arg,Back to the Future,Wednesday,08:30,10:30,25,8
+Payam,Braveheart,Thursday,17:30,19:30,15,2
+Eram,Taxi Driver,Saturday,16:30,19:00,20,7
+Payam,The Kid,Friday,17:00,19:30,20,7
+Azadi,Princess Mononoke,Thursday,18:30,21:30,15,8
+Eram,Se7en,Tuesday,18:30,21:00,20,4
+Ghods,Schindler's List,Saturday,13:00,15:30,20,5
+Alborz,Pulp Fiction,Monday,12:30,15:30,20,7
+Koorosh,Princess Mononoke,Sunday,11:00,14:00,20,5
+Azadi,Casablanca,Tuesday,17:30,20:00,15,8
+Payam,City Lights,Tuesday,17:00,20:00,20,5
+Eram,WALL·E,Saturday,17:00,20:00,25,5
+Iran,The Dark Knight,Friday,15:00,17:30,20,5
+Hafez,Goodfellas,Sunday,14:00,16:00,15,7
+Paytakht,Apocalypse Now,Friday,14:30,16:30,20,8
+Koorosh,Oldeuboi,Monday,17:30,20:30,25,4
+Koorosh,The Godfather,Saturday,10:30,13:00,20,3
+Alborz,Cinema Paradiso,Thursday,20:00,22:30,25,2
+Esteghlal,The Lion King,Friday,10:00,12:30,20,2
+Farhang,The Great Dictator,Sunday,09:00,11:30,25,5
+Javan,Gladiator,Saturday,11:30,14:30,20,8
+Javan,American History X,Tuesday,10:00,12:00,20,8
+Felestin,L.A. Confidential,Thursday,12:30,14:30,15,8
+Arg,Whiplash,Thursday,16:00,19:00,25,1
+Paytakht,Reservoir Dogs,Monday,15:00,18:00,15,3
+Hafez,Lawrence of Arabia,Sunday,17:30,19:30,15,2
+Paytakht,Interstellar,Saturday,08:00,10:00,20,6
+Farhang,Double Indemnity,Thursday,11:00,13:30,15,6
+Azadi,Casablanca,Thursday,15:00,17:30,25,6
+Mellat,Full Metal Jacket,Monday,12:30,14:30,15,6
+Arash,American History X,Friday,13:00,15:00,25,1
+Eram,Pulp Fiction,Wednesday,09:30,12:30,20,6
+Esteghlal,Life Is Beautiful,Wednesday,09:30,12:00,25,1
+Payam,Paths of Glory,Monday,19:30,21:30,25,1
+Eram,Seven Samurai,Thursday,09:00,11:30,15,8
+Gholhak,The Pianist,Sunday,12:00,14:30,25,9
+Paytakht,Seven Samurai,Sunday,18:00,20:30,20,3
+Felestin,Amélie,Monday,09:00,12:00,15,1
+Mellat,Cinema Paradiso,Tuesday,15:30,18:00,25,9
+Esteghlal,Goodfellas,Sunday,20:30,22:30,25,5
+Arash,Whiplash,Friday,15:00,18:00,25,6
+Ghods,Goodfellas,Wednesday,16:00,18:00,20,9
+Charsoo,Braveheart,Friday,17:00,19:00,20,2
+Azadi,Forrest Gump,Sunday,19:00,21:30,20,6
+Arash,Snatch.,Friday,18:00,21:00,20,6
+Javan,The Dark Knight,Thursday,08:30,11:00,15,3
+Koorosh,Pulp Fiction,Saturday,10:00,13:00,25,2
+Alborz,The Sting,Monday,16:30,19:30,15,3
+Koorosh,Amélie,Sunday,12:30,15:30,15,5
+Koorosh,Life Is Beautiful,Wednesday,10:30,13:00,25,7
+Alborz,The Great Dictator,Thursday,15:30,18:00,15,2
+Farhang,Schindler's List,Friday,12:30,15:00,15,6
+Arash,Das Boot,Friday,09:30,12:00,20,2
+Esteghlal,Gladiator,Monday,16:00,19:00,20,4
+Arg,Forrest Gump,Friday,09:00,11:30,20,6
+Koorosh,Fight Club,Wednesday,11:30,14:00,25,4
+Arg,American Beauty,Monday,13:00,16:00,25,1
+Javan,Pulp Fiction,Monday,16:30,19:30,25,9
+Alborz,Apocalypse Now,Saturday,16:00,18:00,15,3
+Ghods,Pulp Fiction,Friday,12:00,15:00,15,7
+Mellat,Back to the Future,Saturday,10:00,12:00,15,8
+Koorosh,City Lights,Wednesday,11:30,14:30,15,5
+Arg,Rear Window,Wednesday,10:00,12:00,20,5
+Esteghlal,Princess Mononoke,Saturday,11:00,14:00,25,3
+Farhang,Full Metal Jacket,Wednesday,17:30,19:30,25,7
+Ghods,Aliens,Thursday,19:00,21:30,15,3
+Iran,The Intouchables,Friday,14:30,16:30,25,9
+Iran,Modern Times,Monday,10:30,13:30,25,3
+Arash,Pulp Fiction,Tuesday,14:30,17:30,15,5
+Paytakht,The Intouchables,Tuesday,13:30,15:30,25,9
+Arg,Psycho,Sunday,19:30,22:30,25,7
+Koorosh,Whiplash,Tuesday,16:00,19:00,20,9
+Iran,Forrest Gump,Saturday,08:30,11:00,25,7
+Arash,M,Monday,13:00,15:30,20,7
+Farhang,The Green Mile,Wednesday,13:30,16:30,25,1
+Eram,Toy Story 3,Thursday,20:30,23:30,20,8
+Javan,Modern Times,Sunday,14:30,17:30,20,4
+Alborz,Apocalypse Now,Wednesday,14:00,16:00,25,6
+Mellat,American Beauty,Friday,16:30,19:30,15,1
+Azadi,Fight Club,Tuesday,11:30,14:00,20,7
+Esteghlal,Full Metal Jacket,Saturday,15:30,17:30,15,5
+Azadi,Pulp Fiction,Saturday,19:00,22:00,15,3
+Mellat,The Dark Knight,Saturday,13:00,15:30,25,2
+Eram,Life Is Beautiful,Tuesday,14:30,17:00,15,9
+Alborz,Seven Samurai,Wednesday,19:30,22:00,25,5
+Felestin,The Lion King,Thursday,19:00,21:30,15,5
+Arash,Amadeus,Monday,14:00,16:00,15,7
+Arg,The Lion King,Tuesday,20:00,22:30,15,4
+Javan,The Matrix,Saturday,10:00,12:30,25,8
+Eram,The Shining,Wednesday,18:00,20:00,20,4
+Azadi,Django Unchained,Saturday,19:30,21:30,25,1
+Arg,Apocalypse Now,Wednesday,15:00,17:00,15,4
+Ghods,American Beauty,Thursday,20:00,23:00,15,3
+Koorosh,Toy Story,Monday,12:30,15:30,15,9
+Gholhak,Vertigo,Saturday,15:30,17:30,20,1
+Gholhak,Amadeus,Monday,15:00,17:00,25,8
+Mellat,City Lights,Sunday,19:30,22:30,20,9
+Paytakht,The Matrix,Friday,12:30,15:00,20,5
+Hafez,Citizen Kane,Sunday,09:30,12:30,15,8
+Charsoo,Princess Mononoke,Saturday,20:30,23:30,15,9
+Arg,M,Saturday,18:00,20:30,15,8
+Eram,Full Metal Jacket,Friday,09:00,11:00,15,1
+Gholhak,Apocalypse Now,Friday,19:30,21:30,25,8
+Eram,Forrest Gump,Thursday,16:00,18:30,20,5
+Azadi,Django Unchained,Sunday,20:30,22:30,20,3
+Koorosh,Fight Club,Saturday,09:30,12:00,15,1
+Iran,Toy Story,Saturday,13:30,16:30,15,4
+Azadi,WALL·E,Friday,17:30,20:30,25,6
+Koorosh,Inside Out,Sunday,18:30,21:00,25,1
+Charsoo,Paths of Glory,Tuesday,10:00,12:00,15,9
+Felestin,Cinema Paradiso,Monday,11:00,13:30,25,8
+Alborz,American History X,Sunday,15:30,17:30,25,4
+Gholhak,Amélie,Tuesday,10:00,13:00,25,2
+Mellat,The Dark Knight,Sunday,12:30,15:00,20,4
+Arg,Gladiator,Monday,09:30,12:30,25,3
+Payam,Gladiator,Saturday,19:30,22:30,20,5
+Hafez,American History X,Wednesday,16:30,18:30,15,8
+Gholhak,The Sting,Monday,09:00,12:00,20,6
+Paytakht,Schindler's List,Sunday,17:00,19:30,15,8
+Esteghlal,Full Metal Jacket,Saturday,18:30,20:30,15,2
+Eram,Toy Story,Thursday,15:30,18:30,15,5
+Paytakht,Amélie,Friday,10:00,13:00,20,7
+Eram,Django Unchained,Wednesday,14:00,16:00,15,4
+Alborz,Reservoir Dogs,Wednesday,20:30,23:30,20,9
+Arg,Star Wars,Tuesday,10:00,13:00,25,5
+Paytakht,Reservoir Dogs,Sunday,17:00,20:00,15,4
+Alborz,Pulp Fiction,Saturday,08:00,11:00,20,7
+Alborz,Goodfellas,Wednesday,11:00,13:00,20,7
+Mellat,Taxi Driver,Friday,18:00,20:30,20,4
+Hafez,City Lights,Wednesday,17:30,20:30,15,8
+Gholhak,Star Wars,Friday,17:00,20:00,15,5
+Hafez,The Godfather,Sunday,14:30,17:00,20,2
+Paytakht,Rear Window,Tuesday,13:30,15:30,25,9
+Charsoo,American Beauty,Friday,18:00,21:00,15,3
+Hafez,The Prestige,Thursday,15:30,18:30,15,4
+Hafez,Toy Story 3,Tuesday,13:00,16:00,25,3
+Paytakht,Cinema Paradiso,Friday,08:00,10:30,15,8
+Iran,Oldeuboi,Saturday,16:30,19:30,25,3
+Javan,Interstellar,Monday,12:30,14:30,15,2
+Arash,Goodfellas,Monday,09:30,11:30,20,7
+Arash,Pulp Fiction,Monday,10:00,13:00,20,7
+Esteghlal,Toy Story 3,Saturday,08:00,11:00,15,7
+Charsoo,Oldeuboi,Monday,17:30,20:30,15,9
+Gholhak,Interstellar,Thursday,08:00,10:00,15,8
+Iran,Forrest Gump,Wednesday,08:30,11:00,15,9
+Arash,Whiplash,Monday,20:30,23:30,25,7
+Arg,City Lights,Wednesday,13:30,16:30,25,8
+Paytakht,Toy Story,Sunday,10:00,13:00,20,5
+Payam,Vertigo,Wednesday,17:00,19:00,15,6
+Payam,North by Northwest,Friday,13:30,16:30,25,3
+Felestin,The Usual Suspects,Monday,20:00,23:00,15,9
+Esteghlal,WALL·E,Saturday,08:30,11:30,20,9
+Charsoo,Inception,Friday,12:00,14:00,25,4
+Iran,12 Angry Men,Tuesday,17:00,19:00,25,5
+Farhang,The Usual Suspects,Wednesday,15:30,18:30,15,4
+Gholhak,The Lion King,Wednesday,08:30,11:00,25,2
+Payam,Toy Story 3,Wednesday,15:00,18:00,15,9
+Ghods,The Great Dictator,Sunday,20:00,22:30,25,1
+Alborz,Fight Club,Friday,17:00,19:30,20,6
+Eram,Amadeus,Tuesday,14:00,16:00,25,6
+Felestin,Das Boot,Friday,12:30,15:00,15,8
+Hafez,Casablanca,Wednesday,20:00,22:30,15,2
+Gholhak,Django Unchained,Saturday,09:00,11:00,15,6
+Charsoo,Oldeuboi,Friday,16:30,19:30,25,4
+Azadi,Princess Mononoke,Tuesday,08:30,11:30,20,9
+Esteghlal,North by Northwest,Monday,18:00,21:00,20,8
+Ghods,Double Indemnity,Saturday,08:30,11:00,20,7
+Koorosh,Inside Out,Thursday,19:00,21:30,20,5
+Koorosh,Aliens,Tuesday,08:00,10:30,25,6
+Azadi,Psycho,Friday,14:00,17:00,25,5
+Arg,Modern Times,Monday,11:30,14:30,25,5
+Arash,Se7en,Wednesday,19:30,22:00,15,3
+Charsoo,American History X,Thursday,14:00,16:00,15,7
+Javan,Django Unchained,Saturday,13:30,15:30,20,9
+Arg,Amadeus,Sunday,17:00,19:00,25,4
+Azadi,Double Indemnity,Sunday,18:30,21:00,25,9
+Paytakht,The Shining,Friday,18:30,20:30,25,5
+Mellat,Modern Times,Sunday,12:00,15:00,20,2
+Farhang,Alien,Wednesday,13:30,15:30,20,1
+Javan,Citizen Kane,Wednesday,10:00,13:00,15,6
+Azadi,Psycho,Thursday,10:30,13:30,15,5
+Iran,The Sting,Sunday,19:30,22:30,25,7
+Ghods,Psycho,Tuesday,20:30,23:30,25,6
+Mellat,Goodfellas,Sunday,15:30,17:30,20,8
+Esteghlal,The Prestige,Monday,13:00,16:00,20,2
+Javan,Gladiator,Monday,10:30,13:30,20,8
+Esteghlal,Taxi Driver,Tuesday,11:00,13:30,20,5
+Mellat,The Great Dictator,Thursday,08:30,11:00,20,6
+Alborz,Goodfellas,Saturday,16:30,18:30,25,7
+Arash,Django Unchained,Monday,12:00,14:00,15,8
+Koorosh,The Green Mile,Sunday,10:00,13:00,20,4
+Felestin,Princess Mononoke,Sunday,20:30,23:30,25,8
+Azadi,Double Indemnity,Monday,11:30,14:00,25,1
+Ghods,Bicycle Thieves,Wednesday,13:00,16:00,20,3
+Felestin,WALL·E,Friday,08:30,11:30,15,8
+Ghods,City Lights,Wednesday,16:00,19:00,25,6
+Esteghlal,Lawrence of Arabia,Saturday,13:30,15:30,25,6
+Charsoo,The Kid,Monday,14:30,17:00,15,3
+Charsoo,Lawrence of Arabia,Monday,18:30,20:30,20,4
+Mellat,Paths of Glory,Wednesday,08:30,10:30,25,6
+Paytakht,Schindler's List,Friday,16:30,19:00,15,6
+Paytakht,The Usual Suspects,Saturday,08:30,11:30,20,9
+Ghods,Inception,Sunday,14:00,16:00,25,3
+Ghods,Full Metal Jacket,Thursday,08:30,10:30,15,1
+Azadi,The Godfather,Sunday,10:30,13:00,15,2
+Ghods,Citizen Kane,Thursday,18:30,21:30,25,4
+Farhang,The Sting,Sunday,10:00,13:00,15,8
+Gholhak,American History X,Tuesday,19:00,21:00,25,8
+Hafez,Toy Story 3,Tuesday,18:00,21:00,25,7
+Hafez,Oldeuboi,Wednesday,08:00,11:00,20,9
+Esteghlal,Spirited Away,Saturday,13:30,16:00,25,6
+Koorosh,Alien,Monday,17:00,19:00,15,2
+Koorosh,American History X,Saturday,18:00,20:00,25,3
+Farhang,Seven Samurai,Saturday,09:30,12:00,25,9
+Payam,The Intouchables,Thursday,10:30,12:30,15,7
+Javan,Inside Out,Wednesday,09:00,11:30,20,9
+Felestin,Das Boot,Tuesday,16:00,18:30,20,3
+Eram,Cinema Paradiso,Monday,13:00,15:30,20,4
+Ghods,The Intouchables,Sunday,12:30,14:30,15,5
+Hafez,Bicycle Thieves,Monday,18:30,21:30,20,5
+Mellat,Life Is Beautiful,Thursday,11:00,13:30,25,5
+Mellat,Snatch.,Monday,11:00,14:00,15,9
+Ghods,Inside Out,Wednesday,18:00,20:30,20,7
+Hafez,Das Boot,Monday,11:00,13:30,20,6
+Paytakht,A Clockwork Orange,Monday,15:00,18:00,25,5
+Iran,The Sting,Tuesday,18:30,21:30,15,9
+Ghods,Princess Mononoke,Saturday,10:00,13:00,25,2
+Koorosh,The Kid,Tuesday,09:00,11:30,25,2
+Farhang,Das Boot,Wednesday,19:00,21:30,25,7
+Iran,Snatch.,Sunday,20:00,23:00,20,1
+Felestin,Vertigo,Thursday,11:30,13:30,15,6
+Koorosh,12 Angry Men,Tuesday,15:00,17:00,15,7
+Eram,The Great Dictator,Sunday,18:30,21:00,25,3
+Farhang,Django Unchained,Monday,11:00,13:00,20,6
+Alborz,The Shining,Saturday,08:00,10:00,25,4
+Felestin,The Intouchables,Saturday,17:30,19:30,15,1
+Arash,City of God,Thursday,19:00,22:00,15,8
+Mellat,Princess Mononoke,Tuesday,16:00,19:00,15,4
+Azadi,Braveheart,Monday,09:30,11:30,15,4
+Koorosh,Braveheart,Thursday,10:30,12:30,15,5
+Esteghlal,Paths of Glory,Wednesday,16:30,18:30,20,7
+Gholhak,Taxi Driver,Thursday,19:30,22:00,20,4
+Javan,Cinema Paradiso,Saturday,20:00,22:30,25,7
+Farhang,The Great Dictator,Friday,18:30,21:00,25,6
+Gholhak,Oldeuboi,Sunday,08:30,11:30,25,8
+Paytakht,The Departed,Thursday,16:30,19:00,15,1
+Eram,Toy Story 3,Tuesday,18:30,21:30,20,6
+Koorosh,Life Is Beautiful,Monday,09:00,11:30,20,6
+Arash,Amadeus,Friday,20:00,22:00,15,1
+Azadi,Vertigo,Saturday,19:00,21:00,20,6
+Esteghlal,American Beauty,Saturday,20:30,23:30,15,7
+Farhang,The Prestige,Saturday,12:00,15:00,15,4
+Charsoo,The Pianist,Sunday,13:30,16:00,25,5
+Iran,Whiplash,Sunday,13:00,16:00,15,4
+Payam,City Lights,Wednesday,17:00,20:00,25,7
+Arg,Interstellar,Sunday,10:00,12:00,25,1
+Iran,American Beauty,Saturday,19:00,22:00,20,1
+Javan,Forrest Gump,Tuesday,16:30,19:00,15,9
+Ghods,Inception,Monday,13:00,15:00,25,9
+Ghods,Oldeuboi,Monday,09:30,12:30,15,8
+Alborz,Amélie,Saturday,11:30,14:30,20,7
+Azadi,The Pianist,Friday,09:30,12:00,20,3
+Mellat,Bicycle Thieves,Saturday,08:30,11:30,20,7
+Javan,Whiplash,Wednesday,15:30,18:30,25,7
+Azadi,City Lights,Wednesday,18:30,21:30,20,1
+Arash,American Beauty,Tuesday,08:30,11:30,15,3
+Hafez,A Clockwork Orange,Friday,16:30,19:30,15,5
+Paytakht,Back to the Future,Friday,13:30,15:30,25,1
+Esteghlal,Django Unchained,Tuesday,20:00,22:00,20,3
+Iran,Django Unchained,Tuesday,14:30,16:30,25,7
+Eram,North by Northwest,Wednesday,09:30,12:30,25,1
+Hafez,Schindler's List,Monday,15:00,17:30,25,1
+Alborz,Gladiator,Tuesday,14:00,17:00,20,8
+Charsoo,Apocalypse Now,Saturday,16:00,18:00,15,3
+Felestin,The Godfather,Sunday,16:00,18:30,15,5
+Alborz,Forrest Gump,Sunday,14:30,17:00,20,3
+Alborz,Vertigo,Monday,09:00,11:00,25,7
+Azadi,Se7en,Wednesday,16:00,18:30,20,2
+Hafez,Spirited Away,Monday,17:30,20:00,20,4
+Arg,The Departed,Friday,17:00,19:30,25,9
+Mellat,Se7en,Friday,08:00,10:30,25,8
+Eram,Inception,Friday,18:00,20:00,25,5
+Arg,Snatch.,Sunday,15:00,18:00,20,3
+Felestin,The Sting,Monday,18:00,21:00,15,7
+Eram,Fight Club,Wednesday,11:00,13:30,25,9
+Arg,The Godfather,Monday,12:00,14:30,15,5
+Gholhak,Toy Story,Wednesday,11:00,14:00,20,8
+Paytakht,The Dark Knight,Wednesday,09:00,11:30,25,3
+Javan,The Great Dictator,Tuesday,18:00,20:30,25,8
+Koorosh,Psycho,Monday,20:30,23:30,15,2
+Esteghlal,The Kid,Friday,15:30,18:00,15,4
+Eram,Princess Mononoke,Monday,16:00,19:00,15,3
+Paytakht,Vertigo,Monday,13:00,15:00,20,9
+Ghods,Snatch.,Saturday,19:00,22:00,20,5
+Esteghlal,City of God,Tuesday,11:30,14:30,25,4
+Javan,M,Monday,16:00,18:30,20,5
+Koorosh,Toy Story,Saturday,20:30,23:30,25,5
+Esteghlal,American Beauty,Sunday,19:00,22:00,25,3
+Payam,The Great Dictator,Friday,12:00,14:30,25,8
+Javan,Braveheart,Thursday,08:00,10:00,25,8
+Koorosh,City Lights,Monday,14:00,17:00,15,2
+Arg,The Prestige,Friday,08:30,11:30,15,5
+Ghods,Rashômon,Saturday,10:00,12:30,20,2
+Azadi,Sunset Blvd.,Friday,16:30,18:30,15,3
+Arg,Inception,Monday,20:30,22:30,25,4
+Azadi,Aliens,Monday,20:30,23:00,25,2
+Payam,Paths of Glory,Monday,12:00,14:00,20,1
+Farhang,Rashômon,Friday,10:00,12:30,20,5
+Payam,Sunset Blvd.,Saturday,13:30,15:30,15,2
+Eram,Star Wars,Wednesday,14:00,17:00,20,4
+Mellat,The Shining,Thursday,19:30,21:30,15,4
+Paytakht,Toy Story,Wednesday,12:30,15:30,25,9
+Gholhak,American History X,Saturday,19:00,21:00,25,3
+Javan,Full Metal Jacket,Tuesday,09:30,11:30,15,2
+Charsoo,Forrest Gump,Saturday,19:00,21:30,25,4
+Gholhak,Star Wars,Monday,16:00,19:00,20,5
+Koorosh,Seven Samurai,Saturday,20:00,22:30,15,5
+Charsoo,Apocalypse Now,Saturday,20:00,22:00,25,4
+Azadi,American History X,Monday,16:00,18:00,15,4
+Eram,Sunset Blvd.,Sunday,12:00,14:00,25,4
+Javan,Reservoir Dogs,Monday,20:30,23:30,25,8
+Paytakht,Lawrence of Arabia,Sunday,19:00,21:00,20,7
+Payam,Taxi Driver,Saturday,09:00,11:30,25,9
+Javan,Paths of Glory,Saturday,10:00,12:00,15,8
+Payam,Forrest Gump,Friday,13:30,16:00,15,4
+Paytakht,Full Metal Jacket,Sunday,20:00,22:00,15,5
+Mellat,The Prestige,Saturday,16:30,19:30,25,2
+Paytakht,Back to the Future,Tuesday,09:00,11:00,15,9
+Koorosh,Se7en,Tuesday,13:00,15:30,15,1
+Arg,Back to the Future,Saturday,18:00,20:00,25,6
+Gholhak,Braveheart,Thursday,09:00,11:00,20,1
+Farhang,Aliens,Tuesday,13:30,16:00,20,2
+Arg,Reservoir Dogs,Tuesday,12:30,15:30,25,2
+Farhang,Snatch.,Saturday,14:00,17:00,20,1
+Arash,Cinema Paradiso,Monday,15:00,17:30,15,5
+Iran,L.A. Confidential,Saturday,12:00,14:00,20,7
+Arash,Psycho,Monday,12:00,15:00,15,7
+Alborz,City Lights,Tuesday,19:30,22:30,20,1
+Eram,The Lion King,Monday,10:00,12:30,15,8
+Azadi,Memento,Saturday,17:00,19:30,25,9
+Javan,Memento,Sunday,12:00,14:30,25,6
+Iran,Psycho,Thursday,18:30,21:30,25,4
+Eram,The Intouchables,Tuesday,08:00,10:00,15,9
+Arg,Reservoir Dogs,Wednesday,08:30,11:30,25,5
+Paytakht,The Matrix,Thursday,09:00,11:30,15,4
+Iran,The Shining,Thursday,17:00,19:00,15,9
+Javan,The Dark Knight,Friday,17:00,19:30,15,4
+Arg,M,Saturday,09:00,11:30,20,7
+Alborz,Paths of Glory,Saturday,18:00,20:00,15,3
+Charsoo,Psycho,Wednesday,17:00,20:00,15,8
+Gholhak,Inside Out,Monday,15:00,17:30,15,4
+Javan,Whiplash,Monday,12:00,15:00,20,6
+Koorosh,Taxi Driver,Wednesday,14:30,17:00,25,6
+Eram,Braveheart,Wednesday,13:30,15:30,15,4
+Azadi,The Kid,Tuesday,17:30,20:00,20,6
+Arash,The Great Dictator,Wednesday,11:00,13:30,20,5
+Esteghlal,The Green Mile,Tuesday,18:00,21:00,20,2
+Koorosh,The Intouchables,Monday,09:30,11:30,15,1
+Ghods,Rashômon,Tuesday,09:00,11:30,15,3
+Felestin,12 Angry Men,Tuesday,10:00,12:00,25,1
+Arash,Amélie,Friday,12:00,15:00,25,1
+Mellat,Rear Window,Thursday,17:30,19:30,15,1
+Mellat,The Intouchables,Friday,19:30,21:30,25,8
+Farhang,City Lights,Sunday,13:30,16:30,25,6
+Felestin,Star Wars,Saturday,09:00,12:00,20,6
+Farhang,12 Angry Men,Wednesday,19:30,21:30,15,1
+Farhang,Django Unchained,Sunday,14:00,16:00,25,7
+Mellat,Toy Story,Friday,20:30,23:30,15,6
+Azadi,American Beauty,Wednesday,10:30,13:30,20,7
+Mellat,Pulp Fiction,Wednesday,20:30,23:30,25,1
+Eram,American Beauty,Sunday,18:30,21:30,25,1
+Koorosh,Rashômon,Wednesday,11:30,14:00,25,1
+Charsoo,Fight Club,Saturday,18:00,20:30,25,3
+Gholhak,The Sting,Tuesday,13:00,16:00,20,5
+Arg,Amadeus,Sunday,09:00,11:00,15,9
+Mellat,Interstellar,Sunday,15:00,17:00,25,9
+Hafez,City of God,Thursday,17:00,20:00,20,5
+Mellat,Spirited Away,Tuesday,09:00,11:30,20,9
+Charsoo,Back to the Future,Saturday,18:00,20:00,15,4
+Ghods,Django Unchained,Monday,12:00,14:00,15,6
+Javan,The Sting,Thursday,15:30,18:30,25,1
+Charsoo,Modern Times,Monday,18:30,21:30,25,5
+Mellat,A Clockwork Orange,Saturday,14:30,17:30,25,8
+Payam,Full Metal Jacket,Saturday,14:00,16:00,25,8
+Charsoo,Star Wars,Thursday,11:30,14:30,15,9
+Arg,L.A. Confidential,Monday,11:30,13:30,20,7
+Iran,Psycho,Wednesday,11:30,14:30,20,5
+Ghods,City Lights,Monday,14:00,17:00,15,7
+Azadi,Goodfellas,Wednesday,17:00,19:00,15,4
+Paytakht,The Dark Knight,Saturday,09:00,11:30,25,8
+Farhang,Bicycle Thieves,Thursday,11:00,14:00,15,9
+Iran,Gladiator,Sunday,08:00,11:00,25,5
+Hafez,Cinema Paradiso,Sunday,20:00,22:30,25,9
+Azadi,The Matrix,Wednesday,17:30,20:00,25,9
+Felestin,Bicycle Thieves,Monday,10:30,13:30,20,6
+Felestin,Se7en,Thursday,10:30,13:00,15,3
+Alborz,Amadeus,Wednesday,17:30,19:30,15,5
+Paytakht,Alien,Sunday,11:30,13:30,15,5
+Arg,Back to the Future,Monday,13:00,15:00,15,2
+Gholhak,Oldeuboi,Wednesday,08:00,11:00,15,3
+Eram,Fight Club,Friday,12:00,14:30,15,3
+Farhang,Cinema Paradiso,Wednesday,14:30,17:00,25,1
+Alborz,Inception,Wednesday,16:00,18:00,15,9
+Koorosh,Princess Mononoke,Tuesday,14:30,17:30,25,8
+Azadi,Se7en,Monday,11:30,14:00,20,9
+Payam,Rear Window,Thursday,17:00,19:00,15,9
+Javan,Cinema Paradiso,Friday,18:00,20:30,25,1
+Iran,Paths of Glory,Saturday,19:00,21:00,20,2
+Mellat,Double Indemnity,Monday,11:30,14:00,20,5
+Arash,Goodfellas,Monday,13:30,15:30,15,1
+Javan,Paths of Glory,Wednesday,12:00,14:00,15,4
+Arg,Full Metal Jacket,Tuesday,19:30,21:30,25,6
+Charsoo,Se7en,Wednesday,11:00,13:30,20,7
+Felestin,Braveheart,Friday,10:30,12:30,15,1
+Arg,L.A. Confidential,Sunday,10:00,12:00,20,9
+Koorosh,Full Metal Jacket,Sunday,15:30,17:30,25,9
+Eram,Se7en,Wednesday,15:30,18:00,15,7
+Arg,Taxi Driver,Wednesday,11:00,13:30,25,3
+Alborz,The Sting,Tuesday,18:00,21:00,20,9
+Arash,Sunset Blvd.,Friday,14:30,16:30,25,3
+Eram,The Departed,Friday,15:00,17:30,20,9
+Arash,A Clockwork Orange,Saturday,11:30,14:30,25,3
+Hafez,Amélie,Friday,14:30,17:30,25,2
+Ghods,Interstellar,Wednesday,13:30,15:30,25,9
+Felestin,Toy Story,Monday,18:00,21:00,20,4
+Mellat,The Godfather,Sunday,11:30,14:00,15,4
+Eram,Schindler's List,Wednesday,12:30,15:00,20,4
+Mellat,The Lion King,Saturday,17:00,19:30,15,5
+Farhang,The Matrix,Friday,08:30,11:00,20,2
+Koorosh,Amélie,Monday,09:00,12:00,20,1
+Payam,Oldeuboi,Wednesday,18:30,21:30,20,2
+Mellat,Braveheart,Friday,17:00,19:00,20,2
+Azadi,City Lights,Friday,08:30,11:30,25,1
+Eram,Taxi Driver,Sunday,13:30,16:00,15,4
+Eram,Taxi Driver,Friday,20:00,22:30,25,1
+Iran,WALL·E,Sunday,13:30,16:30,25,7
+Arash,The Prestige,Tuesday,13:00,16:00,25,5
+Felestin,Lawrence of Arabia,Tuesday,20:00,22:00,25,1
+Arg,Taxi Driver,Tuesday,18:00,20:30,25,6
+Koorosh,Schindler's List,Saturday,19:00,21:30,15,4
+Felestin,Django Unchained,Friday,15:00,17:00,15,2
+Gholhak,The Intouchables,Monday,20:00,22:00,15,1
+Ghods,Paths of Glory,Friday,09:30,11:30,20,8
+Azadi,Interstellar,Wednesday,13:00,15:00,25,4
+Ghods,American Beauty,Friday,18:30,21:30,25,1
+Payam,L.A. Confidential,Monday,19:30,21:30,25,9
+Eram,Rashômon,Wednesday,12:30,15:00,20,7
+Arash,Modern Times,Wednesday,20:30,23:30,15,7
+Mellat,Amadeus,Thursday,15:30,17:30,20,5
+Eram,L.A. Confidential,Wednesday,09:30,11:30,15,3
+Esteghlal,Schindler's List,Wednesday,08:30,11:00,15,9
+Azadi,Snatch.,Thursday,11:30,14:30,25,9
+Arg,Toy Story,Thursday,09:00,12:00,25,2
+Arash,Gladiator,Sunday,10:00,13:00,15,1
+Koorosh,Forrest Gump,Saturday,17:00,19:30,20,3
+Gholhak,Rear Window,Thursday,11:30,13:30,25,1
+Farhang,Schindler's List,Friday,13:30,16:00,25,6
+Arash,Seven Samurai,Thursday,11:00,13:30,20,4
+Mellat,Vertigo,Wednesday,18:30,20:30,20,5
+Koorosh,The Pianist,Saturday,12:30,15:00,15,7
